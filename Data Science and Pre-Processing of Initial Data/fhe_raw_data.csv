@@ -1,0 +1,937 @@
+REGION,HEI_NAME,HEI_TYPE,HEI_CITY,HEI_PROVINCE,FHE_GRANTEES,SEX_M,SEX_F,NOT_INDICATED,YEAR
+01 - Ilocos Region,Binalatongan Community College,LUC,SAN CARLOS CITY,PANGASINAN,721,290,431,,2018-2019
+01 - Ilocos Region,Don Mariano Marcos Memorial State University,SUC,SAN FERNANDO CITY,LA UNION,11726,5280,6446,,2018-2019
+01 - Ilocos Region,Ilocos Sur Community College,LUC,VIGAN CITY,ILOCOS SUR,987,412,575,,2018-2019
+01 - Ilocos Region,Ilocos Sur Polytechnic State College,SUC,SANTA MARIA,ILOCOS SUR,4392,2007,2385,-,2018-2019
+01 - Ilocos Region,Mariano Marcos State University,SUC,BATAC CITY,ILOCOS NORTE,7823,3250,4573,-,2018-2019
+01 - Ilocos Region,North Luzon Philippines State College,SUC,CANDON CITY,ILOCOS SUR,2377,1013,1364,-,2018-2019
+01 - Ilocos Region,Pangasinan State University,SUC,LINGAYEN,PANGASINAN,18784,7870,10871,43,2018-2019
+01 - Ilocos Region,University Of Eastern Pangasinan,LUC,BINALONAN,PANGASINAN,1251,541,710,,2018-2019
+01 - Ilocos Region,University Of Northern Philippines,SUC,VIGAN CITY,ILOCOS SUR,7911,3576,4335,,2018-2019
+01 - Ilocos Region,Urdaneta City University,LUC,URDANETA CITY,PANGASINAN,2986,1151,1835,,2018-2019
+02 - Cagayan Valley,Batanes State College,SUC,BASCO,BATANES,433,239,194,,2018-2019
+02 - Cagayan Valley,Cagayan State University,SUC,TUGUEGARAO CITY,CAGAYAN,11607,4346,7261,,2018-2019
+02 - Cagayan Valley,Isabela State University,SUC,ECHAGUE,ISABELA,22365,10719,11646,,2018-2019
+02 - Cagayan Valley,Nueva Vizcaya State University,SUC,BAYOMBONG,NUEVA VIZCAYA,8589,3796,4793,,2018-2019
+02 - Cagayan Valley,Quirino State University,SUC,DIFFUN,QUIRINO PROVINCE,3406,1481,1925,,2018-2019
+03 - Central Luzon,Aurora State College Of Technology,SUC,BALER,AURORA,2293,1126,1167,,2018-2019
+03 - Central Luzon,Baliwag Polytechnic College,LUC,BALIUAG,BULACAN,2094,868,1226,,2018-2019
+03 - Central Luzon,Bataan Peninsula State University,SUC,CITY OF BALANGA (CAPITAL),BATAAN,10932,5258,5674,,2018-2019
+03 - Central Luzon,Bulacan Agricultural State College,SUC,SAN ILDEFONSO,BULACAN,3059,1441,1618,,2018-2019
+03 - Central Luzon,Bulacan Polytechnic College,LUC,CITY OF MALOLOS (CAPITAL),BULACAN,1165,431,734,,2018-2019
+03 - Central Luzon,Bulacan State University,SUC,CITY OF MALOLOS (CAPITAL),BULACAN,32445,15220,17225,,2018-2019
+03 - Central Luzon,Central Luzon State University,SUC,SCIENCE CITY OF MUÑOZ,NUEVA ECIJA,8694,3593,5101,,2018-2019
+03 - Central Luzon,City College Of Angeles,LUC,CITY OF ANGELES,PAMPANGA,2124,967,1157,,2018-2019
+03 - Central Luzon,City College Of San Fernando,LUC,CITY OF SAN FERNANDO (CAPITAL),PAMPANGA,503,99,404,,2018-2019
+03 - Central Luzon,Don Honorio Ventura Technological State University,SUC,BACOLOR,PAMPANGA,19130,9915,9215,,2018-2019
+03 - Central Luzon,Eduardo L. Joson Memorial College,LUC,CITY OF PALAYAN (CAPITAL),NUEVA ECIJA,761,191,570,,2018-2019
+03 - Central Luzon,Guagua Community College,LUC,GUAGUA,PAMPANGA,230,89,141,,2018-2019
+03 - Central Luzon,Kolehiyo Ng Subic,LUC,CITY OF OLONGAPO,ZAMBALES,1922,755,1167,,2018-2019
+03 - Central Luzon,Mabalacat City College,LUC,MABALACAT CITY,PAMPANGA,3176,1357,1819,,2018-2019
+03 - Central Luzon,Norzagaray College,LUC,NORZAGARAY,BULACAN,730,280,450,,2018-2019
+03 - Central Luzon,Nueva Ecija University Of Science And Technology,SUC,CITY OF CABANATUAN,NUEVA ECIJA,16222,7537,8685,,2018-2019
+03 - Central Luzon,Pambayang Dalubhasaan Ng Marilao,LUC,MARILAO,BULACAN,1473,625,848,,2018-2019
+03 - Central Luzon,Pampanga State Agricultural University,SUC,MAGALANG,PAMPANGA,4069,1926,2143,,2018-2019
+03 - Central Luzon,Philippine Merchant Marine Academy,SUC,SAN NARCISO,ZAMBALES,760,734,26,,2018-2019
+03 - Central Luzon,Polytechnic College Of Botolan,LUC,BOTOLAN,ZAMBALES,468,174,294,,2018-2019
+03 - Central Luzon,Polytechnic College Of The City Of Meycauayan,LUC,CITY OF MEYCAUAYAN,BULACAN,892,290,602,,2018-2019
+03 - Central Luzon,President Ramon Magsaysay State University,SUC,IBA (CAPITAL),ZAMBALES,7465,3688,3777,,2018-2019
+03 - Central Luzon,Tarlac Agricultural University,SUC,CAMILING,TARLAC,3413,1565,1848,,2018-2019
+03 - Central Luzon,Tarlac State University,SUC,CITY OF TARLAC (CAPITAL),TARLAC,16721,7695,9026,,2018-2019
+04 - CALABARZON,Antipolo Institute Of Technology (Aitech),LUC,CITY OF ANTIPOLO (CAPITAL),RIZAL PROVINCE,154,84,70,,2018-2019
+04 - CALABARZON,Balian Community College,LUC,PANGIL,LAGUNA,204,43,161,,2018-2019
+04 - CALABARZON,Batangas State University,SUC,BATANGAS CITY (CAPITAL),BATANGAS,25176,11465,13711,-,2018-2019
+04 - CALABARZON,Cavite State University,SUC,INDANG,CAVITE,39321,17827,21493,1,2018-2019
+04 - CALABARZON,City College Of Calamba,LUC,CITY OF CALAMBA,LAGUNA,1497,500,997,,2018-2019
+04 - CALABARZON,City College Of Tagaytay,LUC,CITY OF TAGAYTAY,CAVITE,2153,864,1289,,2018-2019
+04 - CALABARZON,Colegio De Montalban,LUC,RODRIGUEZ (MONTALBAN),RIZAL PROVINCE,3422,1638,1784,,2018-2019
+04 - CALABARZON,Colegio Ng Lungsod Ng Batangas,LUC,BATANGAS CITY (CAPITAL),BATANGAS,564,103,461,,2018-2019
+04 - CALABARZON,Dalubhasaan Ng Lungsod Ng Lucena,LUC,CITY OF LUCENA (CAPITAL),QUEZON PROVINCE,1478,535,943,,2018-2019
+04 - CALABARZON,Kolehiyo Ng Lungsod Ng Lipa,LUC,LIPA CITY,BATANGAS,5513,2209,3304,,2018-2019
+04 - CALABARZON,Laguna State Polytechnic University,SUC,SANTA CRUZ (CAPITAL),LAGUNA,19960,9624,10336,,2018-2019
+04 - CALABARZON,Laguna University,LUC,SANTA CRUZ (CAPITAL),LAGUNA,2286,1031,1255,,2018-2019
+04 - CALABARZON,Pamantasan Ng Cabuyao,LUC,CITY OF CABUYAO,LAGUNA,3349,1327,2022,,2018-2019
+04 - CALABARZON,Pamantasan Ng Lungsod Ng San Pablo,LUC,CITY OF SAN PABLO,LAGUNA,3148,1286,1862,,2018-2019
+04 - CALABARZON,Pambayang Kolehiyo Ng Mauban,LUC,MAUBAN,QUEZON PROVINCE,553,149,404,,2018-2019
+04 - CALABARZON,San Mateo Municipal College,LUC,SAN MATEO,RIZAL PROVINCE,2102,655,1447,,2018-2019
+04 - CALABARZON,Southern Luzon State University,SUC,LUCBAN,QUEZON PROVINCE,7703,3252,4451,,2018-2019
+04 - CALABARZON,Tanauan City College,LUC,CITY OF TANAUAN,BATANGAS,607,313,294,,2018-2019
+04 - CALABARZON,Trece Martires City College,LUC,CITY OF TRECE MARTIRES (CAPITAL),CAVITE,1062,406,656,,2018-2019
+04 - CALABARZON,University Of Rizal System,SUC,TANAY,RIZAL PROVINCE,13937,5741,8196,,2018-2019
+05 - Bicol Region,Aroroy Municipal College,LUC,AROROY,MASBATE,436,157,279,,2018-2019
+05 - Bicol Region,Baao Community College,LUC,BAAO,CAMARINES SUR,1230,446,784,,2018-2019
+05 - Bicol Region,Bicol State College Of Applied Sciences And Technology,SUC,CITY OF NAGA,CAMARINES SUR,3930,1877,1946,107,2018-2019
+05 - Bicol Region,Bicol University,SUC,LEGAZPI CITY,ALBAY,12728,4981,7747,-,2018-2019
+05 - Bicol Region,Calabanga Community College,LUC,CALABANGA,CAMARINES SUR,393,74,319,,2018-2019
+05 - Bicol Region,Camarines Norte State College,SUC,DAET (CAPITAL),CAMARINES NORTE,5608,2222,3385,1,2018-2019
+05 - Bicol Region,Camarines Sur Polytechnic College,SUC,NABUA,CAMARINES SUR,4947,2147,2800,-,2018-2019
+05 - Bicol Region,Caramoan Community College,LUC,CARAMOAN,CAMARINES SUR,949,317,632,,2018-2019
+05 - Bicol Region,Catanduanes State University,SUC,VIRAC (CAPITAL),CATANDUANES,5796,2604,3190,2,2018-2019
+05 - Bicol Region,Central Bicol State University Of Agriculture,SUC,PILI (CAPITAL),CAMARINES SUR,8668,3550,5118,-,2018-2019
+05 - Bicol Region,City College Of Naga,LUC,CITY OF NAGA,CAMARINES SUR,408,56,352,,2018-2019
+05 - Bicol Region,Community College Of Manito,LUC,MANITO,ALBAY,434,143,291,,2018-2019
+05 - Bicol Region,Daraga Community College,LUC,DARAGA,ALBAY,2708,748,1960,,2018-2019
+05 - Bicol Region,Donsol Community College,LUC,DONSOL,SORSOGON,572,241,331,,2018-2019
+05 - Bicol Region,"Dr. Emilio B. Espinosa, Sr. Memorial State College Of Agriculture And Technology",SUC,MANDAON,MASBATE,4553,2067,2486,,2018-2019
+05 - Bicol Region,Governor Mariano E. Villafuerte Community College,LUC,GARCHITORENA,CAMARINES SUR,367,142,225,,2018-2019
+05 - Bicol Region,Libon Community College,LUC,LIBON,ALBAY,935,338,597,,2018-2019
+05 - Bicol Region,Ligao Community College,LUC,CITY OF LIGAO,ALBAY,1441,552,889,,2018-2019
+05 - Bicol Region,Oas Community College,LUC,OAS,ALBAY,1587,569,1018,,2018-2019
+05 - Bicol Region,Partido State University,SUC,GOA,CAMARINES SUR,5201,2432,2768,1,2018-2019
+05 - Bicol Region,Polangui Community College,LUC,POLANGUI,ALBAY,1279,481,798,,2018-2019
+05 - Bicol Region,Rapu-Rapu Community College,LUC,RAPU-RAPU,ALBAY,331,137,194,,2018-2019
+05 - Bicol Region,San Jose Community College,LUC,MALILIPOT,ALBAY,2784,1077,1707,,2018-2019
+05 - Bicol Region,San Pascual Polytechnic College,LUC,SAN PASCUAL,MASBATE,184,82,102,,2018-2019
+05 - Bicol Region,Sorsogon Community College,LUC,CITY OF SORSOGON (CAPITAL),SORSOGON,325,31,294,,2018-2019
+05 - Bicol Region,Sorsogon State University,SUC,CITY OF SORSOGON (CAPITAL),SORSOGON,7195,3362,3833,,2018-2019
+06 - Western Visayas,Aklan State University,SUC,BANGA,AKLAN,5148,1932,3216,-,2018-2019
+06 - Western Visayas,Bago City College,LUC,CITY OF BAGO,NEGROS OCCIDENTAL,2873,1286,1587,-,2018-2019
+06 - Western Visayas,Capiz State University,SUC,CITY OF ROXAS (CAPITAL),CAPIZ,11323,4816,6506,1,2018-2019
+06 - Western Visayas,Carlos Hilado Memorial State College,SUC,CITY OF TALISAY,NEGROS OCCIDENTAL,9724,4139,5585,-,2018-2019
+06 - Western Visayas,Central Philippine State University,SUC,CITY OF KABANKALAN,NEGROS OCCIDENTAL,8255,3675,4580,-,2018-2019
+06 - Western Visayas,Guimaras State College,SUC,BUENAVISTA,GUIMARAS,2234,1026,1208,-,2018-2019
+06 - Western Visayas,Iloilo City Community College,LUC,CITY OF ILOILO (CAPITAL),ILOILO,446,91,355,,2018-2019
+06 - Western Visayas,Iloilo Science And Technology University,SUC,CITY OF ILOILO (CAPITAL),ILOILO,10382,4833,5549,-,2018-2019
+06 - Western Visayas,Iloilo State College Of Fisheries,SUC,BAROTAC NUEVO,ILOILO,3819,1684,2086,49,2018-2019
+06 - Western Visayas,Northern Iloilo Polytechnic State College,SUC,ESTANCIA,ILOILO,7354,3460,3894,-,2018-2019
+06 - Western Visayas,Northern Negros State College Of Science And Technology,SUC,CITY OF SAGAY,NEGROS OCCIDENTAL,5079,1992,3087,-,2018-2019
+06 - Western Visayas,Libacao College Of Science And Technology,LUC,LIBACAO,AKLAN,175,64,105,6,2018-2019
+06 - Western Visayas,Passi City College,LUC,CITY OF PASSI,ILOILO,1330,533,797,-,2018-2019
+06 - Western Visayas,University Of Antique,SUC,SIBALOM,ANTIQUE,10478,3606,4251,2621,2018-2019
+06 - Western Visayas,West Visayas State University,SUC,CITY OF ILOILO (CAPITAL),ILOILO,9326,3388,5938,-,2018-2019
+07 - Central Visayas,Bohol Island State University,SUC,CITY OF TAGBILARAN (CAPITAL),BOHOL,14623,6052,8571,,2018-2019
+07 - Central Visayas,Buenavista Community College,LUC,BUENAVISTA,BOHOL,1223,554,669,,2018-2019
+07 - Central Visayas,Carcar City College,LUC,CITY OF CARCAR,CEBU,538,152,386,,2018-2019
+07 - Central Visayas,Cebu Normal University,SUC,CITY OF CEBU (CAPITAL),CEBU,4795,889,3906,-,2018-2019
+07 - Central Visayas,Cebu Technological University,SUC,CITY OF CEBU (CAPITAL),CEBU,33755,-,-,33755,2018-2019
+07 - Central Visayas,Negros Oriental State University,SUC,CITY OF DUMAGUETE (CAPITAL),NEGROS ORIENTAL,25370,11360,14010,-,2018-2019
+07 - Central Visayas,Sibonga Community College,LUC,SIBONGA,CEBU,964,352,612,-,2018-2019
+07 - Central Visayas,Siquijor State College,SUC,LARENA,SIQUIJOR,1443,642,801,-,2018-2019
+07 - Central Visayas,Trinidad Municipal College,LUC,TRINIDAD,BOHOL,2973,1243,1730,-,2018-2019
+08 - Eastern Visayas,Biliran Province State University,SUC,NAVAL (CAPITAL),BILIRAN,5523,2759,2764,-,2018-2019
+08 - Eastern Visayas,Eastern Samar State University,SUC,CITY OF BORONGAN (CAPITAL),EASTERN SAMAR,11736,5357,6379,-,2018-2019
+08 - Eastern Visayas,Eastern Visayas State University,SUC,CITY OF TACLOBAN (CAPITAL),LEYTE,17667,8278,9389,-,2018-2019
+08 - Eastern Visayas,Leyte Normal University,SUC,CITY OF TACLOBAN (CAPITAL),LEYTE,5256,1561,3695,-,2018-2019
+08 - Eastern Visayas,Maasin City College,LUC,CITY OF MAASIN,SOUTHERN LEYTE,925,278,647,-,2018-2019
+08 - Eastern Visayas,Northwest Samar State University,SUC,CITY OF CALBAYOG,WESTERN SAMAR,6560,2989,3571,-,2018-2019
+08 - Eastern Visayas,Palompon Institute Of Technology,SUC,PALOMPON,LEYTE,3856,2319,1537,-,2018-2019
+08 - Eastern Visayas,Samar State University,SUC,CITY OF CATBALOGAN (CAPITAL),WESTERN SAMAR,6191,2811,3380,-,2018-2019
+08 - Eastern Visayas,Southern Leyte State University,SUC,SOGOD,SOUTHERN LEYTE,8519,3959,4560,-,2018-2019
+08 - Eastern Visayas,University Of Eastern Philippines,SUC,CATARMAN (CAPITAL),NORTHERN SAMAR,11414,5277,6137,-,2018-2019
+08 - Eastern Visayas,Visayas State University,SUC,CITY OF BAYBAY,LEYTE,10854,4439,6396,19,2018-2019
+09 - Zamboanga Peninsula,Jose Rizal Memorial State University,SUC,CITY OF DAPITAN,ZAMBOANGA DEL NORTE,12984,5861,7123,,2018-2019
+09 - Zamboanga Peninsula,Josefina H. Cerilles State College,SUC,SAN MIGUEL,ZAMBOANGA DEL SUR,9389,3590,5799,,2018-2019
+09 - Zamboanga Peninsula,Western Mindanao State University,SUC,CITY OF ZAMBOANGA,ZAMBOANGA DEL SUR,18455,7290,11165,,2018-2019
+09 - Zamboanga Peninsula,Zamboanga Del Sur Provincial Government College,LUC,AURORA,ZAMBOANGA DEL SUR,925,398,527,,2018-2019
+09 - Zamboanga Peninsula,Zamboanga Peninsula Polytechnic State University,SUC,CITY OF ZAMBOANGA,ZAMBOANGA DEL SUR,7214,3824,3390,,2018-2019
+09 - Zamboanga Peninsula,Zamboanga State College Of Marine Sciences And Technology,SUC,CITY OF ZAMBOANGA,ZAMBOANGA DEL SUR,3123,1676,1447,,2018-2019
+10 - Northern Mindanao,Bukidnon State University,SUC,CITY OF MALAYBALAY (CAPITAL),BUKIDNON,12698,4898,7800,,2018-2019
+10 - Northern Mindanao,Camiguin Polytechnic State College,SUC,MAMBAJAO (CAPITAL),CAMIGUIN,2036,925,1111,-,2018-2019
+10 - Northern Mindanao,Central Mindanao University,SUC,MARAMAG,BUKIDNON,7139,2910,4229,-,2018-2019
+10 - Northern Mindanao,Gov. Alfonso D. Tan College,LUC,CITY OF TANGUB,MISAMIS OCCIDENTAL,2082,819,1263,-,2018-2019
+10 - Northern Mindanao,Initao College,LUC,INITAO,MISAMIS ORIENTAL,802,346,456,-,2018-2019
+10 - Northern Mindanao,Magsaysay College,LUC,MAGSAYSAY,MISAMIS ORIENTAL,212,102,110,-,2018-2019
+10 - Northern Mindanao,Mindanao State University - Iligan Institute Of Technology,SUC,CITY OF ILIGAN,LANAO DEL NORTE,7505,2961,4544,,2018-2019
+10 - Northern Mindanao,Northern Bukidnon State College,SUC,MANOLO FORTICH,BUKIDNON,866,-,-,866,2018-2019
+10 - Northern Mindanao,Northwestern Mindanao State College Of Science And Technology,SUC,CITY OF TANGUB,MISAMIS OCCIDENTAL,2572,1277,1295,,2018-2019
+10 - Northern Mindanao,Opol Community College,LUC,OPOL,MISAMIS ORIENTAL,1318,489,829,-,2018-2019
+10 - Northern Mindanao,Pangantucan Bukidnon Community College,LUC,PANGANTUCAN,BUKIDNON,606,275,331,-,2018-2019
+10 - Northern Mindanao,Tagoloan Community College,LUC,TAGOLOAN,MISAMIS ORIENTAL,3772,1631,2141,-,2018-2019
+10 - Northern Mindanao,University Of Science And Technology Of Southern Philippines,SUC,CITY OF CAGAYAN DE ORO (CAPITAL),MISAMIS ORIENTAL,11315,5271,5272,772,2018-2019
+11 - Davao Region,Davao De Oro State College,SUC,COMPOSTELA,DAVAO DE ORO,1720,742,978,,2018-2019
+11 - Davao Region,Davao Del Norte State College,SUC,CITY OF PANABO,DAVAO DEL NORTE,2739,1104,1635,,2018-2019
+11 - Davao Region,Davao Oriental State University,SUC,CITY OF MATI (CAPITAL),DAVAO ORIENTAL,7510,3108,4140,262,2018-2019
+11 - Davao Region,"Governor Generoso College Of Arts, Science And Technology",LUC,GOVERNOR GENEROSO,DAVAO ORIENTAL,870,360,510,-,2018-2019
+11 - Davao Region,"Kapalong College Of Agriculture, Sciences And Technology",LUC,KAPALONG,DAVAO DEL NORTE,2083,788,1295,-,2018-2019
+11 - Davao Region,Kolehiyo Ng Pantukan,LUC,PANTUKAN,COMPOSTELA VALLEY,1187,496,691,-,2018-2019
+11 - Davao Region,"Monkayo College Of Arts, Sciences And Technology",LUC,MONKAYO,COMPOSTELA VALLEY,1456,541,915,-,2018-2019
+11 - Davao Region,"Southern Philippines Agri-Business, Marine And Aquatic School Of Technology",SUC,MALITA,DAVAO DEL SUR,3699,1615,2084,-,2018-2019
+11 - Davao Region,University Of Southeastern Philippines,SUC,CITY OF DAVAO,DAVAO DEL SUR,4788,1898,2890,-,2018-2019
+12 - Soccsksargen,Cotabato Foundation College Of Science And Technology,SUC,ARAKAN,NORTH COTABATO,2848,1185,1663,,2018-2019
+12 - Soccsksargen,Cotabato State University,SUC,CITY OF COTABATO,COTABATO CITY,6441,2901,3540,,2018-2019
+12 - Soccsksargen,Glan Institute Of Technology,LUC,GLAN,SARANGANI,667,319,348,-,2018-2019
+12 - Soccsksargen,Makilala Institute Of Science And Technology,LUC,MAKILALA,NORTH COTABATO,1198,569,629,-,2018-2019
+12 - Soccsksargen,Sultan Kudarat State University,SUC,CITY OF TACURONG,SULTAN KUDARAT,7061,2849,4212,-,2018-2019
+12 - Soccsksargen,University Of Southern Mindanao-Main,SUC,KABACAN,NORTH COTABATO,11486,5241,6245,-,2018-2019
+13 - NCR,"Eulogio ""Amang"" Rodriguez Institute Of Science And Technology",SUC,SAMPALOC,METRO MANILA,16929,8272,8655,2,2018-2019
+13 - NCR,Marikina Polytechnic College,SUC,CITY OF MARIKINA,METRO MANILA,4669,2579,2090,-,2018-2019
+13 - NCR,Pamantasan Ng Lungsod Ng Maynila,LUC,INTRAMUROS,METRO MANILA,5237,1884,3353,-,2018-2019
+13 - NCR,Pamantasan Ng Lungsod Ng Muntinlupa,LUC,CITY OF MUNTINLUPA,METRO MANILA,7806,3696,4110,-,2018-2019
+13 - NCR,Philippine Normal University,SUC,ERMITA,METRO MANILA,3703,966,2716,21,2018-2019
+13 - NCR,Philippine State College Of Aeronautics,SUC,PASAY CITY,METRO MANILA,9202,3254,1269,4679,2018-2019
+13 - NCR,Polytechnic University Of The Philippines,SUC,SAMPALOC,METRO MANILA,51115,21440,29634,41,2018-2019
+13 - NCR,Rizal Technological University,SUC,CITY OF MANDALUYONG,METRO MANILA,21461,9131,12330,-,2018-2019
+13 - NCR,Technological University Of The Philippines,SUC,ERMITA,METRO MANILA,15559,9992,5567,-,2018-2019
+13 - NCR,University Of The Philippines,SUC,QUEZON CITY,METRO MANILA,27880,7963,12350,7567,2018-2019
+14 - CAR,Abra State Institute Of Science And Technology,SUC,LANGAGILANG,ABRA,3122,1522,1600,,2018-2019
+14 - CAR,Apayao State College,SUC,CONNER,APAYAO,2184,941,1243,,2018-2019
+14 - CAR,Benguet State University,SUC,LA TRINIDAD,BENGUET,5886,1825,4061,,2018-2019
+14 - CAR,Ifugao State University,SUC,LAMUT,IFUGAO,4392,1903,2489,,2018-2019
+14 - CAR,Kalinga State University,SUC,TABUK CITY,KALINGA,4317,1757,2560,,2018-2019
+14 - CAR,Mountain Province State Polytechnic College,SUC,BONTOC,MOUNTAIN PROVINCE,4196,1964,2232,,2018-2019
+15 - BARMM,Adiong Memorial Polytechnic State College,SUC,DITSAAN-RAMAIN,LANAO DEL SUR,637,217,420,-,2018-2019
+15 - BARMM,Basilan State College,SUC,CITY OF LAMITAN (CAPITAL),BASILAN,4195,1919,2276,-,2018-2019
+15 - BARMM,Mindanao State University-Tawi-Tawi College Of Technology And Oceanography,SUC,BONGAO (CAPITAL),TAWI-TAWI,1646,647,999,-,2018-2019
+15 - BARMM,Sulu State College,SUC,JOLO (CAPITAL),SULU PROVINCE,2992,1211,1781,-,2018-2019
+15 - BARMM,Tawi-Tawi Regional Agricultural College,SUC,BONGAO (CAPITAL),TAWI-TAWI,2010,954,1056,-,2018-2019
+15 - BARMM,Mindanao State University,SUC,CITY OF MARAWI (CAPITAL),LANAO DEL SUR,23032,7516,13471,2045,2018-2019
+16 - Caraga,Agusan Del Sur State College Of Agriculture And Technology,SUC,BUNAWAN,AGUSAN DEL SUR,5194,2026,3167,1,2018-2019
+16 - Caraga,Caraga State University,SUC,CITY OF BUTUAN (CAPITAL),AGUSAN DEL NORTE,6641,2832,3809,-,2018-2019
+16 - Caraga,Hinatuan Southern College,LUC,HINATUAN,SURIGAO DEL SUR,786,318,468,-,2018-2019
+16 - Caraga,North Eastern Mindanao State University (Sdssu),SUC,CITY OF TANDAG (CAPITAL),SURIGAO DEL SUR,9956,4416,5538,2,2018-2019
+16 - Caraga,Surigao State College Of Technology,SUC,CITY OF SURIGAO (CAPITAL),SURIGAO DEL NORTE,10375,5402,4965,8,2018-2019
+17 - MIMAROPA,Baco Community College,LUC,BACO,ORIENTAL MINDORO,138,51,87,,2018-2019
+17 - MIMAROPA,City College Of Calapan,LUC,CITY OF CALAPAN (CAPITAL),ORIENTAL MINDORO,437,153,284,,2018-2019
+17 - MIMAROPA,Marinduque State College,SUC,BOAC (CAPITAL),MARINDUQUE,4663,2181,2482,-,2018-2019
+17 - MIMAROPA,Mindoro State University,SUC,VICTORIA,ORIENTAL MINDORO,5899,2349,3550,-,2018-2019
+17 - MIMAROPA,Occidental Mindoro State College,SUC,SAN JOSE,OCCIDENTAL MINDORO,8153,3328,4825,-,2018-2019
+17 - MIMAROPA,Palawan State University,SUC,CITY OF PUERTO PRINCESA (CAPITAL),PALAWAN,16895,7025,9815,55,2018-2019
+17 - MIMAROPA,Romblon State University,SUC,ODIONGAN,ROMBLON,8601,3956,4645,-,2018-2019
+17 - MIMAROPA,Western Philippines University,SUC,ABORLAN,PALAWAN,6775,2911,3864,-,2018-2019
+01 - Ilocos Region,Binalatongan Community College,LUC,SAN CARLOS CITY,PANGASINAN,1350,0,0,1350,2019-2020
+01 - Ilocos Region,Don Mariano Marcos Memorial State University,SUC,SAN FERNANDO CITY,LA UNION,12768,0,0,12768,2019-2020
+01 - Ilocos Region,Ilocos Sur Community College,LUC,VIGAN CITY,ILOCOS SUR,1354,579,775,,2019-2020
+01 - Ilocos Region,Ilocos Sur Polytechnic State College,SUC,SANTA MARIA,ILOCOS SUR,5003,2622,2378,3,2019-2020
+01 - Ilocos Region,Mariano Marcos State University,SUC,BATAC CITY,ILOCOS NORTE,8517,3593,4924,,2019-2020
+01 - Ilocos Region,North Luzon Philippines State College,SUC,CANDON CITY,ILOCOS SUR,2686,1217,1469,,2019-2020
+01 - Ilocos Region,Pangasinan State University,SUC,LINGAYEN,PANGASINAN,19083,8246,10837,,2019-2020
+01 - Ilocos Region,University Of Eastern Pangasinan,LUC,BINALONAN,PANGASINAN,2366,1043,1323,,2019-2020
+01 - Ilocos Region,University Of Northern Philippines,SUC,VIGAN CITY,ILOCOS SUR,9008,4152,4851,5,2019-2020
+01 - Ilocos Region,Urdaneta City University,LUC,URDANETA CITY,PANGASINAN,4785,1649,3092,44,2019-2020
+02 - Cagayan Valley,Batanes State College,SUC,BASCO,BATANES,476,243,233,-,2019-2020
+02 - Cagayan Valley,Cagayan State University,SUC,TUGUEGARAO CITY,CAGAYAN,18267,7672,10595,,2019-2020
+02 - Cagayan Valley,Isabela State University,SUC,ECHAGUE,ISABELA,24310,10749,13561,,2019-2020
+02 - Cagayan Valley,Nueva Vizcaya State University,SUC,BAYOMBONG,NUEVA VIZCAYA,9643,-,-,9643,2019-2020
+02 - Cagayan Valley,Quirino State University,SUC,DIFFUN,QUIRINO PROVINCE,4056,-,-,4056,2019-2020
+03 - Central Luzon,Aurora State College Of Technology,SUC,BALER,AURORA,3279,1592,1687,,2019-2020
+03 - Central Luzon,Baliwag Polytechnic College,LUC,BALIUAG,BULACAN,2094,868,1226,,2019-2020
+03 - Central Luzon,Bataan Peninsula State University,SUC,CITY OF BALANGA (CAPITAL),BATAAN,10933,5133,5800,,2019-2020
+03 - Central Luzon,Bulacan Agricultural State College,SUC,SAN ILDEFONSO,BULACAN,3568,1730,1838,,2019-2020
+03 - Central Luzon,Bulacan Polytechnic College,LUC,CITY OF MALOLOS (CAPITAL),BULACAN,1456,-,-,1456,2019-2020
+03 - Central Luzon,Bulacan State University,SUC,CITY OF MALOLOS (CAPITAL),BULACAN,33343,15632,17711,,2019-2020
+03 - Central Luzon,Central Luzon State University,SUC,SCIENCE CITY OF MUÑOZ,NUEVA ECIJA,9513,3894,5619,,2019-2020
+03 - Central Luzon,City College Of Angeles,LUC,CITY OF ANGELES,PAMPANGA,2645,1148,1497,,2019-2020
+03 - Central Luzon,City College Of San Fernando,LUC,CITY OF SAN FERNANDO (CAPITAL),PAMPANGA,424,128,296,,2019-2020
+03 - Central Luzon,Don Honorio Ventura Technological State University,SUC,BACOLOR,PAMPANGA,24121,12384,11737,,2019-2020
+03 - Central Luzon,Eduardo L. Joson Memorial College,LUC,CITY OF PALAYAN (CAPITAL),NUEVA ECIJA,813,198,614,1,2019-2020
+03 - Central Luzon,Gordon College,LUC,CITY OF OLONGAPO,ZAMBALES,4159,1648,2511,,2019-2020
+03 - Central Luzon,Guagua Community College,LUC,GUAGUA,PAMPANGA,426,171,255,,2019-2020
+03 - Central Luzon,Kolehiyo Ng Subic,LUC,CITY OF OLONGAPO,ZAMBALES,2798,1204,1594,,2019-2020
+03 - Central Luzon,Mabalacat City College,LUC,MABALACAT CITY,PAMPANGA,3315,1458,1857,,2019-2020
+03 - Central Luzon,Norzagaray College,LUC,NORZAGARAY,BULACAN,915,364,551,,2019-2020
+03 - Central Luzon,Nueva Ecija University Of Science And Technology,SUC,CITY OF CABANATUAN,NUEVA ECIJA,19937,9225,10712,,2019-2020
+03 - Central Luzon,Pambayang Dalubhasaan Ng Marilao,LUC,MARILAO,BULACAN,1523,688,833,2,2019-2020
+03 - Central Luzon,Pampanga State Agricultural University,SUC,MAGALANG,PAMPANGA,4711,2336,2375,,2019-2020
+03 - Central Luzon,Philippine Merchant Marine Academy,SUC,SAN NARCISO,ZAMBALES,943,-,-,943,2019-2020
+03 - Central Luzon,Polytechnic College Of Botolan,LUC,BOTOLAN,ZAMBALES,709,300,409,,2019-2020
+03 - Central Luzon,Polytechnic College Of The City Of Meycauayan,LUC,CITY OF MEYCAUAYAN,BULACAN,986,334,652,,2019-2020
+03 - Central Luzon,President Ramon Magsaysay State University,SUC,IBA (CAPITAL),ZAMBALES,8965,4439,4526,,2019-2020
+03 - Central Luzon,Tarlac Agricultural University,SUC,CAMILING,TARLAC,4873,2281,2592,,2019-2020
+03 - Central Luzon,Tarlac State University,SUC,CITY OF TARLAC (CAPITAL),TARLAC,15463,7225,8238,,2019-2020
+04 - CALABARZON,Antipolo Institute Of Technology (Aitech),LUC,CITY OF ANTIPOLO (CAPITAL),RIZAL PROVINCE,266,146,120,,2019-2020
+04 - CALABARZON,Balian Community College,LUC,PANGIL,LAGUNA,270,65,205,,2019-2020
+04 - CALABARZON,Batangas State University,SUC,BATANGAS CITY (CAPITAL),BATANGAS,26691,11453,15238,,2019-2020
+04 - CALABARZON,Cavite State University,SUC,INDANG,CAVITE,41838,18553,23285,,2019-2020
+04 - CALABARZON,City College Of Calamba,LUC,CITY OF CALAMBA,LAGUNA,1749,621,1128,,2019-2020
+04 - CALABARZON,City College Of Tagaytay,LUC,CITY OF TAGAYTAY,CAVITE,2372,1056,1316,,2019-2020
+04 - CALABARZON,Colegio De Montalban,LUC,RODRIGUEZ (MONTALBAN),RIZAL PROVINCE,3691,1791,1900,,2019-2020
+04 - CALABARZON,Colegio Ng Lungsod Ng Batangas,LUC,BATANGAS CITY (CAPITAL),BATANGAS,1749,621,1128,,2019-2020
+04 - CALABARZON,Dalubhasaan Ng Lungsod Ng Lucena,LUC,CITY OF LUCENA (CAPITAL),QUEZON PROVINCE,1453,542,911,,2019-2020
+04 - CALABARZON,Kolehiyo Ng Lungsod Ng Lipa,LUC,LIPA CITY,BATANGAS,6058,2677,3381,,2019-2020
+04 - CALABARZON,Laguna State Polytechnic University,SUC,SANTA CRUZ (CAPITAL),LAGUNA,20677,9746,10931,,2019-2020
+04 - CALABARZON,Laguna University,LUC,SANTA CRUZ (CAPITAL),LAGUNA,2984,-,-,2984,2019-2020
+04 - CALABARZON,One Cainta College,LUC,CAINTA,RIZAL PROVINCE,800,-,-,800,2019-2020
+04 - CALABARZON,Pamantasan Ng Cabuyao,LUC,CITY OF CABUYAO,LAGUNA,3602,1443,2159,,2019-2020
+04 - CALABARZON,Pamantasan Ng Lungsod Ng San Pablo,LUC,CITY OF SAN PABLO,LAGUNA,4104,1886,2218,,2019-2020
+04 - CALABARZON,Pambayang Kolehiyo Ng Mauban,LUC,MAUBAN,QUEZON PROVINCE,604,169,435,,2019-2020
+04 - CALABARZON,San Mateo Municipal College,LUC,SAN MATEO,RIZAL PROVINCE,2803,923,1880,,2019-2020
+04 - CALABARZON,Southern Luzon State University,SUC,LUCBAN,QUEZON PROVINCE,6620,2716,3904,,2019-2020
+04 - CALABARZON,Tanauan City College,LUC,CITY OF TANAUAN,BATANGAS,878,430,448,,2019-2020
+04 - CALABARZON,Trece Martires City College,LUC,CITY OF TRECE MARTIRES (CAPITAL),CAVITE,1276,508,768,,2019-2020
+04 - CALABARZON,University Of Rizal System,SUC,TANAY,RIZAL PROVINCE,14026,5888,8138,,2019-2020
+05 - Bicol Region,Aroroy Municipal College,LUC,AROROY,MASBATE,716,240,476,,2019-2020
+05 - Bicol Region,Baao Community College,LUC,BAAO,CAMARINES SUR,1793,641,1150,2,2019-2020
+05 - Bicol Region,Bicol State College Of Applied Sciences And Technology,SUC,CITY OF NAGA,CAMARINES SUR,2519,1222,1198,99,2019-2020
+05 - Bicol Region,Bicol University,SUC,LEGAZPI CITY,ALBAY,13750,5353,8373,24,2019-2020
+05 - Bicol Region,Calabanga Community College,LUC,CALABANGA,CAMARINES SUR,707,201,506,,2019-2020
+05 - Bicol Region,Camarines Norte State College,SUC,DAET (CAPITAL),CAMARINES NORTE,1948,581,673,694,2019-2020
+05 - Bicol Region,Camarines Sur Polytechnic College,SUC,NABUA,CAMARINES SUR,5621,2527,3094,,2019-2020
+05 - Bicol Region,Caramoan Community College,LUC,CARAMOAN,CAMARINES SUR,952,332,620,,2019-2020
+05 - Bicol Region,Catanduanes State University,SUC,VIRAC (CAPITAL),CATANDUANES,5781,2679,3102,,2019-2020
+05 - Bicol Region,Central Bicol State University Of Agriculture,SUC,PILI (CAPITAL),CAMARINES SUR,8790,3722,5063,5,2019-2020
+05 - Bicol Region,City College Of Naga,LUC,CITY OF NAGA,CAMARINES SUR,427,51,376,,2019-2020
+05 - Bicol Region,Community College Of Manito,LUC,MANITO,ALBAY,576,210,366,,2019-2020
+05 - Bicol Region,Daraga Community College,LUC,DARAGA,ALBAY,2773,774,1995,4,2019-2020
+05 - Bicol Region,Donsol Community College,LUC,DONSOL,SORSOGON,524,217,307,,2019-2020
+05 - Bicol Region,"Dr. Emilio B. Espinosa, Sr. Memorial State College Of Agriculture And Technology",SUC,MANDAON,MASBATE,4829,2237,2592,,2019-2020
+05 - Bicol Region,Governor Mariano E. Villafuerte Community College,LUC,GARCHITORENA,CAMARINES SUR,733,294,439,,2019-2020
+05 - Bicol Region,Libon Community College,LUC,LIBON,ALBAY,925,354,512,59,2019-2020
+05 - Bicol Region,Ligao Community College,LUC,CITY OF LIGAO,ALBAY,1113,440,673,,2019-2020
+05 - Bicol Region,Oas Community College,LUC,OAS,ALBAY,1684,653,1029,2,2019-2020
+05 - Bicol Region,Partido State University,SUC,GOA,CAMARINES SUR,5014,2397,2614,3,2019-2020
+05 - Bicol Region,Polangui Community College,LUC,POLANGUI,ALBAY,1305,457,848,,2019-2020
+05 - Bicol Region,Rapu-Rapu Community College,LUC,RAPU-RAPU,ALBAY,313,151,162,,2019-2020
+05 - Bicol Region,San Jose Community College,LUC,MALILIPOT,ALBAY,3528,-,-,3528,2019-2020
+05 - Bicol Region,San Pascual Polytechnic College,LUC,SAN PASCUAL,MASBATE,164,53,111,,2019-2020
+05 - Bicol Region,Sorsogon Community College,LUC,CITY OF SORSOGON (CAPITAL),SORSOGON,307,23,284,,2019-2020
+05 - Bicol Region,Sorsogon State University,SUC,CITY OF SORSOGON (CAPITAL),SORSOGON,8730,4118,4612,,2019-2020
+05 - Bicol Region,Tiwi Community College,LUC,TIWI,ALBAY,1025,397,628,,2019-2020
+06 - Western Visayas,Aklan State University,SUC,BANGA,AKLAN,6515,1376,2274,2865,2019-2020
+06 - Western Visayas,Bacolod City College,LUC,CITY OF BACOLOD (CAPITAL),NEGROS OCCIDENTAL,3168,905,2214,49,2019-2020
+06 - Western Visayas,Bago City College,LUC,CITY OF BAGO,NEGROS OCCIDENTAL,4030,1848,2079,103,2019-2020
+06 - Western Visayas,Capiz State University,SUC,CITY OF ROXAS (CAPITAL),CAPIZ,13109,5983,7105,21,2019-2020
+06 - Western Visayas,Carlos Hilado Memorial State College,SUC,CITY OF TALISAY,NEGROS OCCIDENTAL,9535,4208,5327,,2019-2020
+06 - Western Visayas,Central Philippine State University,SUC,CITY OF KABANKALAN,NEGROS OCCIDENTAL,8826,3882,4936,8,2019-2020
+06 - Western Visayas,Guimaras State College,SUC,BUENAVISTA,GUIMARAS,3080,1508,1572,,2019-2020
+06 - Western Visayas,Iloilo City Community College,LUC,CITY OF ILOILO (CAPITAL),ILOILO,480,107,373,,2019-2020
+06 - Western Visayas,Iloilo Science And Technology University,SUC,CITY OF ILOILO (CAPITAL),ILOILO,11140,5220,5920,,2019-2020
+06 - Western Visayas,Iloilo State College Of Fisheries,SUC,BAROTAC NUEVO,ILOILO,4228,1967,2261,,2019-2020
+06 - Western Visayas,Northern Iloilo Polytechnic State College,SUC,ESTANCIA,ILOILO,8365,3923,4437,5,2019-2020
+06 - Western Visayas,Northern Negros State College Of Science And Technology,SUC,CITY OF SAGAY,NEGROS OCCIDENTAL,6089,2393,3690,6,2019-2020
+06 - Western Visayas,Libacao College Of Science And Technology,LUC,LIBACAO,AKLAN,165,74,91,,2019-2020
+06 - Western Visayas,Passi City College,LUC,CITY OF PASSI,ILOILO,1664,755,909,,2019-2020
+06 - Western Visayas,University Of Antique,SUC,SIBALOM,ANTIQUE,12359,5644,6714,1,2019-2020
+06 - Western Visayas,West Visayas State University,SUC,CITY OF ILOILO (CAPITAL),ILOILO,9528,3579,5947,2,2019-2020
+07 - Central Visayas,Bohol Island State University,SUC,CITY OF TAGBILARAN (CAPITAL),BOHOL,14073,6012,8060,1,2019-2020
+07 - Central Visayas,Buenavista Community College,LUC,BUENAVISTA,BOHOL,1928,914,1014,,2019-2020
+07 - Central Visayas,Carcar City College,LUC,CITY OF CARCAR,CEBU,1084,438,646,,2019-2020
+07 - Central Visayas,Cebu Normal University,SUC,CITY OF CEBU (CAPITAL),CEBU,4815,943,3872,,2019-2020
+07 - Central Visayas,Cebu Technological University,SUC,CITY OF CEBU (CAPITAL),CEBU,36673,17151,19510,12,2019-2020
+07 - Central Visayas,Consolacion Community College,LUC,CONSOLACION,CEBU,1253,407,846,,2019-2020
+07 - Central Visayas,Cordova Public College,LUC,CORDOVA,CEBU,1759,618,1141,,2019-2020
+07 - Central Visayas,Lapu-Lapu City College,LUC,CITY OF LAPU-LAPU (OPON),CEBU,1045,323,722,,2019-2020
+07 - Central Visayas,Madridejos Community College,LUC,MADRIDEJOS,CEBU,1595,550,1025,20,2019-2020
+07 - Central Visayas,Mandaue City College,LUC,CITY OF MANDAUE,CEBU,1232,426,805,1,2019-2020
+07 - Central Visayas,Negros Oriental State University,SUC,CITY OF DUMAGUETE (CAPITAL),NEGROS ORIENTAL,24933,11079,13839,15,2019-2020
+07 - Central Visayas,Sibonga Community College,LUC,SIBONGA,CEBU,953,373,580,,2019-2020
+07 - Central Visayas,Siquijor State College,SUC,LARENA,SIQUIJOR,1738,872,866,,2019-2020
+07 - Central Visayas,Talibon Polytechnic College,LUC,TALIBON,BOHOL,586,308,278,,2019-2020
+07 - Central Visayas,Talisay City College,LUC,CITY OF TALISAY,CEBU,3942,1459,2483,,2019-2020
+07 - Central Visayas,Trinidad Municipal College,LUC,TRINIDAD,BOHOL,4058,1766,2292,,2019-2020
+08 - Eastern Visayas,Abuyog Community College,LUC,ABUYOG,LEYTE,2014,944,1070,,2019-2020
+08 - Eastern Visayas,Biliran Province State University,SUC,NAVAL (CAPITAL),BILIRAN,6774,3304,3449,21,2019-2020
+08 - Eastern Visayas,Burauen Community College,LUC,BURAUEN,LEYTE,546,346,200,,2019-2020
+08 - Eastern Visayas,Colegio De Las Navas,LUC,LAS NAVAS,NORTHERN SAMAR,455,200,255,,2019-2020
+08 - Eastern Visayas,Eastern Samar State University,SUC,CITY OF BORONGAN (CAPITAL),EASTERN SAMAR,12665,5958,6701,6,2019-2020
+08 - Eastern Visayas,Eastern Visayas State University,SUC,CITY OF TACLOBAN (CAPITAL),LEYTE,17543,8031,9476,36,2019-2020
+08 - Eastern Visayas,Leyte Normal University,SUC,CITY OF TACLOBAN (CAPITAL),LEYTE,5987,-,-,5987,2019-2020
+08 - Eastern Visayas,Maasin City College,LUC,CITY OF MAASIN,SOUTHERN LEYTE,965,295,667,3,2019-2020
+08 - Eastern Visayas,Northwest Samar State University,SUC,CITY OF CALBAYOG,WESTERN SAMAR,5256,2485,2771,,2019-2020
+08 - Eastern Visayas,Palompon Institute Of Technology,SUC,PALOMPON,LEYTE,4462,2785,1677,,2019-2020
+08 - Eastern Visayas,Samar State University,SUC,CITY OF CATBALOGAN (CAPITAL),WESTERN SAMAR,6337,2754,3583,,2019-2020
+08 - Eastern Visayas,Southern Leyte State University,SUC,SOGOD,SOUTHERN LEYTE,9095,4369,4726,,2019-2020
+08 - Eastern Visayas,University Of Eastern Philippines,SUC,CATARMAN (CAPITAL),NORTHERN SAMAR,12109,5490,6617,2,2019-2020
+08 - Eastern Visayas,Visayas State University,SUC,CITY OF BAYBAY,LEYTE,11716,4652,7062,2,2019-2020
+09 - Zamboanga Peninsula,Jose Rizal Memorial State University,SUC,CITY OF DAPITAN,ZAMBOANGA DEL NORTE,15746,7276,8470,,2019-2020
+09 - Zamboanga Peninsula,Josefina H. Cerilles State College,SUC,SAN MIGUEL,ZAMBOANGA DEL SUR,9391,-,-,9391,2019-2020
+09 - Zamboanga Peninsula,Western Mindanao State University,SUC,CITY OF ZAMBOANGA,ZAMBOANGA DEL SUR,15968,6509,9459,,2019-2020
+09 - Zamboanga Peninsula,Zamboanga Del Sur Provincial Government College,LUC,AURORA,ZAMBOANGA DEL SUR,1426,-,-,1426,2019-2020
+09 - Zamboanga Peninsula,Zamboanga Peninsula Polytechnic State University,SUC,CITY OF ZAMBOANGA,ZAMBOANGA DEL SUR,8390,4427,3963,,2019-2020
+09 - Zamboanga Peninsula,Zamboanga State College Of Marine Sciences And Technology,SUC,CITY OF ZAMBOANGA,ZAMBOANGA DEL SUR,3863,1931,1932,,2019-2020
+10 - Northern Mindanao,Bukidnon State University,SUC,CITY OF MALAYBALAY (CAPITAL),BUKIDNON,13608,5241,8367,,2019-2020
+10 - Northern Mindanao,Camiguin Polytechnic State College,SUC,MAMBAJAO (CAPITAL),CAMIGUIN,2150,984,1166,,2019-2020
+10 - Northern Mindanao,Central Mindanao University,SUC,MARAMAG,BUKIDNON,10457,3677,6780,,2019-2020
+10 - Northern Mindanao,City College Of El Salvador,LUC,CITY OF EL SALVADOR,MISAMIS ORIENTAL,755,316,438,1,2019-2020
+10 - Northern Mindanao,Community College Of Gingoog City,LUC,GINGOOG CITY,MISAMIS ORIENTAL,683,296,385,2,2019-2020
+10 - Northern Mindanao,Don Carlos Polytechnic College,LUC,DON CARLOS,BUKIDNON,1077,468,609,,2019-2020
+10 - Northern Mindanao,Gov. Alfonso D. Tan College,LUC,CITY OF TANGUB,MISAMIS OCCIDENTAL,2868,1204,1664,,2019-2020
+10 - Northern Mindanao,Initao College,LUC,INITAO,MISAMIS ORIENTAL,1596,709,887,,2019-2020
+10 - Northern Mindanao,Magsaysay College,LUC,MAGSAYSAY,MISAMIS ORIENTAL,508,218,290,,2019-2020
+10 - Northern Mindanao,Mindanao State University - Iligan Institute Of Technology,SUC,CITY OF ILIGAN,LANAO DEL NORTE,7255,-,-,7255,2019-2020
+10 - Northern Mindanao,Northern Bukidnon State College,SUC,MANOLO FORTICH,BUKIDNON,1565,572,953,40,2019-2020
+10 - Northern Mindanao,Northwestern Mindanao State College Of Science And Technology,SUC,CITY OF TANGUB,MISAMIS OCCIDENTAL,3416,1662,1754,,2019-2020
+10 - Northern Mindanao,Opol Community College,LUC,OPOL,MISAMIS ORIENTAL,1986,814,1172,,2019-2020
+10 - Northern Mindanao,Pangantucan Bukidnon Community College,LUC,PANGANTUCAN,BUKIDNON,621,267,354,,2019-2020
+10 - Northern Mindanao,Salay Community College,LUC,SALAY,MISAMIS ORIENTAL,474,178,296,,2019-2020
+10 - Northern Mindanao,Tagoloan Community College,LUC,TAGOLOAN,MISAMIS ORIENTAL,5360,2340,3020,,2019-2020
+10 - Northern Mindanao,Tubod College,LUC,TUBOD,LANAO DEL NORTE,496,187,309,,2019-2020
+10 - Northern Mindanao,University Of Science And Technology Of Southern Philippines,SUC,CITY OF CAGAYAN DE ORO (CAPITAL),MISAMIS ORIENTAL,12073,6218,5855,,2019-2020
+11 - Davao Region,Davao De Oro State College,SUC,COMPOSTELA,DAVAO DE ORO,2196,942,1252,2,2019-2020
+11 - Davao Region,Davao Del Norte State College,SUC,CITY OF PANABO,DAVAO DEL NORTE,3243,1346,1897,,2019-2020
+11 - Davao Region,Davao Oriental State University,SUC,CITY OF MATI (CAPITAL),DAVAO ORIENTAL,7590,3053,4263,274,2019-2020
+11 - Davao Region,"Governor Generoso College Of Arts, Science And Technology",LUC,GOVERNOR GENEROSO,DAVAO ORIENTAL,896,364,532,,2019-2020
+11 - Davao Region,"Kapalong College Of Agriculture, Sciences And Technology",LUC,KAPALONG,DAVAO DEL NORTE,2584,1061,1518,5,2019-2020
+11 - Davao Region,Kolehiyo Ng Pantukan,LUC,PANTUKAN,COMPOSTELA VALLEY,1511,649,862,,2019-2020
+11 - Davao Region,"Monkayo College Of Arts, Sciences And Technology",LUC,MONKAYO,COMPOSTELA VALLEY,1812,710,1102,,2019-2020
+11 - Davao Region,"Santo Tomas College Of Agriculture, Sciences And Technology",LUC,SANTO TOMAS,DAVAO DEL NORTE,1238,517,721,,2019-2020
+11 - Davao Region,"Southern Philippines Agri-Business, Marine And Aquatic School Of Technology",SUC,MALITA,DAVAO DEL SUR,5032,2161,2869,2,2019-2020
+11 - Davao Region,University Of Southeastern Philippines,SUC,CITY OF DAVAO,DAVAO DEL SUR,6223,2773,3449,1,2019-2020
+12 - Soccsksargen,Cotabato Foundation College Of Science And Technology,SUC,ARAKAN,NORTH COTABATO,3440,1479,1961,,2019-2020
+12 - Soccsksargen,Cotabato State University,SUC,CITY OF COTABATO,COTABATO CITY,4444,2092,2352,,2019-2020
+12 - Soccsksargen,Glan Institute Of Technology,LUC,GLAN,SARANGANI,1019,498,521,,2019-2020
+12 - Soccsksargen,Makilala Institute Of Science And Technology,LUC,MAKILALA,NORTH COTABATO,2493,1121,1372,,2019-2020
+12 - Soccsksargen,Sultan Kudarat State University,SUC,CITY OF TACURONG,SULTAN KUDARAT,6448,2580,3868,,2019-2020
+12 - Soccsksargen,University Of Southern Mindanao-Main,SUC,KABACAN,NORTH COTABATO,12458,5601,6857,,2019-2020
+13 - NCR,City Of Malabon University,LUC,CITY OF MALABON,METRO MANILA,4500,1914,2586,,2019-2020
+13 - NCR,Dr. Filemon C. Aguilar Memorial College Of Las Piñas,LUC,CITY OF LAS PIÑAS,METRO MANILA,2070,760,1306,4,2019-2020
+13 - NCR,"Eulogio ""Amang"" Rodriguez Institute Of Science And Technology",SUC,SAMPALOC,METRO MANILA,14924,7288,7636,,2019-2020
+13 - NCR,Marikina Polytechnic College,SUC,CITY OF MARIKINA,METRO MANILA,4297,2467,1830,,2019-2020
+13 - NCR,Navotas Polytechnic College,LUC,CITY OF NAVOTAS,METRO MANILA,2458,937,1521,,2019-2020
+13 - NCR,Pamantasan Ng Lungsod Ng Maynila,LUC,INTRAMUROS,METRO MANILA,6697,2375,4322,,2019-2020
+13 - NCR,Pamantasan Ng Lungsod Ng Muntinlupa,LUC,CITY OF MUNTINLUPA,METRO MANILA,9072,4286,4786,,2019-2020
+13 - NCR,Pamantasan Ng Lungsod Ng Pasig,LUC,CITY OF PASIG,METRO MANILA,2334,847,1487,,2019-2020
+13 - NCR,Pateros Technological College,LUC,PATEROS,METRO MANILA,778,402,371,5,2019-2020
+13 - NCR,Philippine Normal University,SUC,ERMITA,METRO MANILA,3620,955,2665,-,2019-2020
+13 - NCR,Philippine State College Of Aeronautics,SUC,PASAY CITY,METRO MANILA,8297,6026,2226,45,2019-2020
+13 - NCR,Polytechnic University Of The Philippines,SUC,SAMPALOC,METRO MANILA,49085,20381,28704,-,2019-2020
+13 - NCR,Rizal Technological University,SUC,CITY OF MANDALUYONG,METRO MANILA,22056,9335,12721,,2019-2020
+13 - NCR,Taguig City University,LUC,TAGUIG CITY,METRO MANILA,7323,3308,4013,2,2019-2020
+13 - NCR,Technological University Of The Philippines,SUC,ERMITA,METRO MANILA,15297,9367,5930,,2019-2020
+13 - NCR,University Of The Philippines,SUC,QUEZON CITY,METRO MANILA,27986,11784,16202,,2019-2020
+13 - NCR,Valenzuela City Polytechnic College,LUC,CITY OF VALENZUELA,METRO MANILA,1297,0,0,1297,2019-2020
+14 - CAR,Abra State Institute Of Science And Technology,SUC,LANGAGILANG,ABRA,3529,467,489,2573,2019-2020
+14 - CAR,Apayao State College,SUC,CONNER,APAYAO,2696,-,-,2696,2019-2020
+14 - CAR,Benguet State University,SUC,LA TRINIDAD,BENGUET,5674,1743,3931,,2019-2020
+14 - CAR,Ifugao State University,SUC,LAMUT,IFUGAO,5023,2309,2714,,2019-2020
+14 - CAR,Kalinga State University,SUC,TABUK CITY,KALINGA,4698,1966,2732,,2019-2020
+14 - CAR,Mountain Province State Polytechnic College,SUC,BONTOC,MOUNTAIN PROVINCE,3651,1713,1937,1,2019-2020
+15 - BARMM,Adiong Memorial Polytechnic State College,SUC,DITSAAN-RAMAIN,LANAO DEL SUR,845,292,553,,2019-2020
+15 - BARMM,Basilan State College,SUC,CITY OF LAMITAN (CAPITAL),BASILAN,4828,-,-,4828,2019-2020
+15 - BARMM,Mindanao State University-Tawi-Tawi College Of Technology And Oceanography,SUC,BONGAO (CAPITAL),TAWI-TAWI,1675,672,1003,,2019-2020
+15 - BARMM,Sulu State College,SUC,JOLO (CAPITAL),SULU PROVINCE,3707,310,540,2857,2019-2020
+15 - BARMM,Tawi-Tawi Regional Agricultural College,SUC,BONGAO (CAPITAL),TAWI-TAWI,2214,1055,1159,,2019-2020
+15 - BARMM,Mindanao State University,SUC,CITY OF MARAWI (CAPITAL),LANAO DEL SUR,23498,-,-,23498,2019-2020
+16 - Caraga,Agusan Del Sur State College Of Agriculture And Technology,SUC,BUNAWAN,AGUSAN DEL SUR,5784,2202,3582,,2019-2020
+16 - Caraga,Caraga State University,SUC,CITY OF BUTUAN (CAPITAL),AGUSAN DEL NORTE,7895,-,-,7895,2019-2020
+16 - Caraga,Hinatuan Southern College,LUC,HINATUAN,SURIGAO DEL SUR,900,376,522,2,2019-2020
+16 - Caraga,North Eastern Mindanao State University (Sdssu),SUC,CITY OF TANDAG (CAPITAL),SURIGAO DEL SUR,13191,6136,7052,3,2019-2020
+16 - Caraga,Surigao State College Of Technology,SUC,CITY OF SURIGAO (CAPITAL),SURIGAO DEL NORTE,9515,5130,4383,2,2019-2020
+17 - MIMAROPA,Baco Community College,LUC,BACO,ORIENTAL MINDORO,245,87,158,,2019-2020
+17 - MIMAROPA,City College Of Calapan,LUC,CITY OF CALAPAN (CAPITAL),ORIENTAL MINDORO,856,287,569,,2019-2020
+17 - MIMAROPA,Marinduque State College,SUC,BOAC (CAPITAL),MARINDUQUE,5035,2327,2708,,2019-2020
+17 - MIMAROPA,Mindoro State University,SUC,VICTORIA,ORIENTAL MINDORO,7263,3084,4178,1,2019-2020
+17 - MIMAROPA,Occidental Mindoro State College,SUC,SAN JOSE,OCCIDENTAL MINDORO,10131,4229,5826,76,2019-2020
+17 - MIMAROPA,Palawan State University,SUC,CITY OF PUERTO PRINCESA (CAPITAL),PALAWAN,16842,5990,8937,1915,2019-2020
+17 - MIMAROPA,Romblon State University,SUC,ODIONGAN,ROMBLON,9860,4624,5236,,2019-2020
+17 - MIMAROPA,Western Philippines University,SUC,ABORLAN,PALAWAN,8659,-,-,8659,2019-2020
+01 - Ilocos Region,Binalatongan Community College,LUC,SAN CARLOS CITY,PANGASINAN,1641,533,1108,,2020-2021
+01 - Ilocos Region,Don Mariano Marcos Memorial State University,SUC,SAN FERNANDO CITY,LA UNION,14837,6300,8537,,2020-2021
+01 - Ilocos Region,Ilocos Sur Community College,LUC,VIGAN CITY,ILOCOS SUR,1565,684,881,,2020-2021
+01 - Ilocos Region,Ilocos Sur Polytechnic State College,SUC,SANTA MARIA,ILOCOS SUR,5711,2575,3136,,2020-2021
+01 - Ilocos Region,Mariano Marcos State University,SUC,BATAC CITY,ILOCOS NORTE,10957,4441,6516,,2020-2021
+01 - Ilocos Region,North Luzon Philippines State College,SUC,CANDON CITY,ILOCOS SUR,3507,1592,1915,,2020-2021
+01 - Ilocos Region,Pangasinan State University,SUC,LINGAYEN,PANGASINAN,22866,9792,13074,,2020-2021
+01 - Ilocos Region,University Of Eastern Pangasinan,LUC,BINALONAN,PANGASINAN,3364,1392,1972,,2020-2021
+01 - Ilocos Region,University Of Northern Philippines,SUC,VIGAN CITY,ILOCOS SUR,11951,5166,6785,,2020-2021
+01 - Ilocos Region,Urdaneta City University,LUC,URDANETA CITY,PANGASINAN,11277,4743,6534,,2020-2021
+02 - Cagayan Valley,Batanes State College,SUC,BASCO,BATANES,579,305,274,,2020-2021
+02 - Cagayan Valley,Cagayan State University,SUC,TUGUEGARAO CITY,CAGAYAN,24171,9646,14525,,2020-2021
+02 - Cagayan Valley,Isabela State University,SUC,ECHAGUE,ISABELA,30872,13380,17492,,2020-2021
+02 - Cagayan Valley,Nueva Vizcaya State University,SUC,BAYOMBONG,NUEVA VIZCAYA,11043,4583,6460,,2020-2021
+02 - Cagayan Valley,Quirino State University,SUC,DIFFUN,QUIRINO PROVINCE,5062,2311,2751,,2020-2021
+03 - Central Luzon,Aurora State College Of Technology,SUC,BALER,AURORA,4542,2181,2361,,2020-2021
+03 - Central Luzon,Baliwag Polytechnic College,LUC,BALIUAG,BULACAN,4191,1623,2568,,2020-2021
+03 - Central Luzon,Bataan Peninsula State University,SUC,CITY OF BALANGA (CAPITAL),BATAAN,11764,5170,6594,,2020-2021
+03 - Central Luzon,Bulacan Agricultural State College,SUC,SAN ILDEFONSO,BULACAN,4989,1411,1582,1996.0,2020-2021
+03 - Central Luzon,Bulacan Polytechnic College,LUC,CITY OF MALOLOS (CAPITAL),BULACAN,1822,700,1122,,2020-2021
+03 - Central Luzon,Bulacan State University,SUC,CITY OF MALOLOS (CAPITAL),BULACAN,37227,16615,20612,,2020-2021
+03 - Central Luzon,Central Luzon State University,SUC,SCIENCE CITY OF MUÑOZ,NUEVA ECIJA,10922,4326,6596,,2020-2021
+03 - Central Luzon,City College Of Angeles,LUC,CITY OF ANGELES,PAMPANGA,3334,1395,1937,2.0,2020-2021
+03 - Central Luzon,City College Of San Fernando,LUC,CITY OF SAN FERNANDO (CAPITAL),PAMPANGA,660,203,457,0.0,2020-2021
+03 - Central Luzon,Don Honorio Ventura Technological State University,SUC,BACOLOR,PAMPANGA,28207,13462,14745,,2020-2021
+03 - Central Luzon,Eduardo L. Joson Memorial College,LUC,CITY OF PALAYAN (CAPITAL),NUEVA ECIJA,920,207,713,,2020-2021
+03 - Central Luzon,Gordon College,LUC,CITY OF OLONGAPO,ZAMBALES,5155,1975,3180,,2020-2021
+03 - Central Luzon,Guagua Community College,LUC,GUAGUA,PAMPANGA,493,191,302,,2020-2021
+03 - Central Luzon,Kolehiyo Ng Subic,LUC,CITY OF OLONGAPO,ZAMBALES,3196,1284,1912,,2020-2021
+03 - Central Luzon,Mabalacat City College,LUC,MABALACAT CITY,PAMPANGA,3199,1314,1885,,2020-2021
+03 - Central Luzon,Norzagaray College,LUC,NORZAGARAY,BULACAN,943,381,562,,2020-2021
+03 - Central Luzon,Nueva Ecija University Of Science And Technology,SUC,CITY OF CABANATUAN,NUEVA ECIJA,21454,9872,11582,,2020-2021
+03 - Central Luzon,Pambayang Dalubhasaan Ng Marilao,LUC,MARILAO,BULACAN,1629,708,921,,2020-2021
+03 - Central Luzon,Pampanga State Agricultural University,SUC,MAGALANG,PAMPANGA,5475,2547,2928,,2020-2021
+03 - Central Luzon,Philippine Merchant Marine Academy,SUC,SAN NARCISO,ZAMBALES,916,848,68,,2020-2021
+03 - Central Luzon,Polytechnic College Of Botolan,LUC,BOTOLAN,ZAMBALES,707,289,418,,2020-2021
+03 - Central Luzon,Polytechnic College Of The City Of Meycauayan,LUC,CITY OF MEYCAUAYAN,BULACAN,1069,361,708,,2020-2021
+03 - Central Luzon,President Ramon Magsaysay State University,SUC,IBA (CAPITAL),ZAMBALES,10448,4851,5597,,2020-2021
+03 - Central Luzon,Tarlac Agricultural University,SUC,CAMILING,TARLAC,5070,2193,2877,,2020-2021
+03 - Central Luzon,Tarlac State University,SUC,CITY OF TARLAC (CAPITAL),TARLAC,17877,7813,10064,,2020-2021
+04 - CALABARZON,Antipolo Institute Of Technology (Aitech),LUC,CITY OF ANTIPOLO (CAPITAL),RIZAL PROVINCE,298,167,131,,2020-2021
+04 - CALABARZON,Balian Community College,LUC,PANGIL,LAGUNA,528,126,402,,2020-2021
+04 - CALABARZON,Batangas State University,SUC,BATANGAS CITY (CAPITAL),BATANGAS,36040,14622,21418,,2020-2021
+04 - CALABARZON,Cavite State University,SUC,INDANG,CAVITE,47802,19972,27830,,2020-2021
+04 - CALABARZON,City College Of Calamba,LUC,CITY OF CALAMBA,LAGUNA,2556,903,1653,0.0,2020-2021
+04 - CALABARZON,City College Of Tagaytay,LUC,CITY OF TAGAYTAY,CAVITE,3028,1285,1743,0.0,2020-2021
+04 - CALABARZON,Colegio De Montalban,LUC,RODRIGUEZ (MONTALBAN),RIZAL PROVINCE,4471,2380,2084,7.0,2020-2021
+04 - CALABARZON,Colegio Ng Lungsod Ng Batangas,LUC,BATANGAS CITY (CAPITAL),BATANGAS,850,174,676,0.0,2020-2021
+04 - CALABARZON,Dalubhasaan Ng Lungsod Ng Lucena,LUC,CITY OF LUCENA (CAPITAL),QUEZON PROVINCE,2463,941,1522,0.0,2020-2021
+04 - CALABARZON,Kolehiyo Ng Lungsod Ng Lipa,LUC,LIPA CITY,BATANGAS,6431,3354,3077,,2020-2021
+04 - CALABARZON,Laguna State Polytechnic University,SUC,SANTA CRUZ (CAPITAL),LAGUNA,23983,10717,13265,1.0,2020-2021
+04 - CALABARZON,Laguna University,LUC,SANTA CRUZ (CAPITAL),LAGUNA,4594,1917,2677,,2020-2021
+04 - CALABARZON,One Cainta College,LUC,CAINTA,RIZAL PROVINCE,1011,423,588,,2020-2021
+04 - CALABARZON,Pamantasan Ng Cabuyao,LUC,CITY OF CABUYAO,LAGUNA,4613,1781,2832,,2020-2021
+04 - CALABARZON,Pamantasan Ng Lungsod Ng San Pablo,LUC,CITY OF SAN PABLO,LAGUNA,5115,2035,2866,214.0,2020-2021
+04 - CALABARZON,Pambayang Kolehiyo Ng Mauban,LUC,MAUBAN,QUEZON PROVINCE,755,210,545,,2020-2021
+04 - CALABARZON,San Mateo Municipal College,LUC,SAN MATEO,RIZAL PROVINCE,3421,1055,2366,,2020-2021
+04 - CALABARZON,Southern Luzon State University,SUC,LUCBAN,QUEZON PROVINCE,8115,3005,5110,,2020-2021
+04 - CALABARZON,Tanauan City College,LUC,CITY OF TANAUAN,BATANGAS,995,450,545,,2020-2021
+04 - CALABARZON,Trece Martires City College,LUC,CITY OF TRECE MARTIRES (CAPITAL),CAVITE,1408,540,868,,2020-2021
+04 - CALABARZON,University Of Rizal System,SUC,TANAY,RIZAL PROVINCE,15923,6533,9384,6.0,2020-2021
+05 - Bicol Region,Aroroy Municipal College,LUC,AROROY,MASBATE,923,306,617,,2020-2021
+05 - Bicol Region,Baao Community College,LUC,BAAO,CAMARINES SUR,2475,803,1672,,2020-2021
+05 - Bicol Region,Bicol State College Of Applied Sciences And Technology,SUC,CITY OF NAGA,CAMARINES SUR,3375,1679,1694,2.0,2020-2021
+05 - Bicol Region,Bicol University,SUC,LEGAZPI CITY,ALBAY,19861,7439,12419,3.0,2020-2021
+05 - Bicol Region,Calabanga Community College,LUC,CALABANGA,CAMARINES SUR,1077,304,773,,2020-2021
+05 - Bicol Region,Camarines Norte State College,SUC,DAET (CAPITAL),CAMARINES NORTE,7450,2639,3801,1010.0,2020-2021
+05 - Bicol Region,Camarines Sur Polytechnic College,SUC,NABUA,CAMARINES SUR,6975,3012,3963,0.0,2020-2021
+05 - Bicol Region,Caramoan Community College,LUC,CARAMOAN,CAMARINES SUR,1250,451,799,,2020-2021
+05 - Bicol Region,Catanduanes State University,SUC,VIRAC (CAPITAL),CATANDUANES,8791,3875,4916,,2020-2021
+05 - Bicol Region,Central Bicol State University Of Agriculture,SUC,PILI (CAPITAL),CAMARINES SUR,9928,4038,5890,,2020-2021
+05 - Bicol Region,City College Of Naga,LUC,CITY OF NAGA,CAMARINES SUR,284,34,250,,2020-2021
+05 - Bicol Region,Community College Of Manito,LUC,MANITO,ALBAY,643,229,414,,2020-2021
+05 - Bicol Region,Daraga Community College,LUC,DARAGA,ALBAY,5300,1882,3415,3.0,2020-2021
+05 - Bicol Region,Donsol Community College,LUC,DONSOL,SORSOGON,701,297,404,0.0,2020-2021
+05 - Bicol Region,"Dr. Emilio B. Espinosa, Sr. Memorial State College Of Agriculture And Technology",SUC,MANDAON,MASBATE,5592,2515,3077,,2020-2021
+05 - Bicol Region,Governor Mariano E. Villafuerte Community College,LUC,GARCHITORENA,CAMARINES SUR,1020,382,638,0.0,2020-2021
+05 - Bicol Region,Libon Community College,LUC,LIBON,ALBAY,1350,542,808,0.0,2020-2021
+05 - Bicol Region,Ligao Community College,LUC,CITY OF LIGAO,ALBAY,1206,443,762,1.0,2020-2021
+05 - Bicol Region,Oas Community College,LUC,OAS,ALBAY,2061,793,1267,1.0,2020-2021
+05 - Bicol Region,Partido State University,SUC,GOA,CAMARINES SUR,5630,2375,3255,,2020-2021
+05 - Bicol Region,Polangui Community College,LUC,POLANGUI,ALBAY,1663,602,1061,0.0,2020-2021
+05 - Bicol Region,Rapu-Rapu Community College,LUC,RAPU-RAPU,ALBAY,403,189,214,0.0,2020-2021
+05 - Bicol Region,San Jose Community College,LUC,MALILIPOT,ALBAY,5457,2277,3180,0.0,2020-2021
+05 - Bicol Region,San Pascual Polytechnic College,LUC,SAN PASCUAL,MASBATE,204,67,136,1.0,2020-2021
+05 - Bicol Region,Sorsogon State University,SUC,CITY OF SORSOGON (CAPITAL),SORSOGON,10182,4584,5598,,2020-2021
+05 - Bicol Region,Tiwi Community College,LUC,TIWI,ALBAY,1514,589,924,1.0,2020-2021
+06 - Western Visayas,Aklan State University,SUC,BANGA,AKLAN,8560,3364,5186,10.0,2020-2021
+06 - Western Visayas,Bacolod City College,LUC,CITY OF BACOLOD (CAPITAL),NEGROS OCCIDENTAL,2857,960,1897,,2020-2021
+06 - Western Visayas,Bago City College,LUC,CITY OF BAGO,NEGROS OCCIDENTAL,4590,2091,2499,,2020-2021
+06 - Western Visayas,Capiz State University,SUC,CITY OF ROXAS (CAPITAL),CAPIZ,16502,7174,9315,13.0,2020-2021
+06 - Western Visayas,Carlos Hilado Memorial State College,SUC,CITY OF TALISAY,NEGROS OCCIDENTAL,11487,4921,6566,0.0,2020-2021
+06 - Western Visayas,Central Philippine State University,SUC,CITY OF KABANKALAN,NEGROS OCCIDENTAL,11087,4803,6268,16.0,2020-2021
+06 - Western Visayas,Guimaras State College,SUC,BUENAVISTA,GUIMARAS,4162,1952,2210,0.0,2020-2021
+06 - Western Visayas,Iloilo City Community College,LUC,CITY OF ILOILO (CAPITAL),ILOILO,575,123,452,,2020-2021
+06 - Western Visayas,Iloilo Science And Technology University,SUC,CITY OF ILOILO (CAPITAL),ILOILO,13610,6165,7445,0.0,2020-2021
+06 - Western Visayas,Iloilo State College Of Fisheries,SUC,BAROTAC NUEVO,ILOILO,5094,2261,2831,2.0,2020-2021
+06 - Western Visayas,Northern Iloilo Polytechnic State College,SUC,ESTANCIA,ILOILO,10654,4702,5941,11.0,2020-2021
+06 - Western Visayas,Northern Negros State College Of Science And Technology,SUC,CITY OF SAGAY,NEGROS OCCIDENTAL,6909,2621,4288,0.0,2020-2021
+06 - Western Visayas,Libacao College Of Science And Technology,LUC,LIBACAO,AKLAN,160,75,85,,2020-2021
+06 - Western Visayas,Passi City College,LUC,CITY OF PASSI,ILOILO,2283,1011,1272,,2020-2021
+06 - Western Visayas,University Of Antique,SUC,SIBALOM,ANTIQUE,15945,7183,8751,11.0,2020-2021
+06 - Western Visayas,West Visayas State University,SUC,CITY OF ILOILO (CAPITAL),ILOILO,12741,4551,8184,6.0,2020-2021
+07 - Central Visayas,Bohol Island State University,SUC,CITY OF TAGBILARAN (CAPITAL),BOHOL,15786,6400,9386,,2020-2021
+07 - Central Visayas,Buenavista Community College,LUC,BUENAVISTA,BOHOL,2640,1255,1385,,2020-2021
+07 - Central Visayas,Carcar City College,LUC,CITY OF CARCAR,CEBU,1216,485,731,,2020-2021
+07 - Central Visayas,Cebu Normal University,SUC,CITY OF CEBU (CAPITAL),CEBU,6277,1259,5018,0.0,2020-2021
+07 - Central Visayas,Cebu Technological University,SUC,CITY OF CEBU (CAPITAL),CEBU,41728,18186,22781,761.0,2020-2021
+07 - Central Visayas,Consolacion Community College,LUC,CONSOLACION,CEBU,1481,434,1045,2.0,2020-2021
+07 - Central Visayas,Cordova Public College,LUC,CORDOVA,CEBU,2260,850,1410,0.0,2020-2021
+07 - Central Visayas,Lapu-Lapu City College,LUC,CITY OF LAPU-LAPU (OPON),CEBU,1358,414,944,0.0,2020-2021
+07 - Central Visayas,Madridejos Community College,LUC,MADRIDEJOS,CEBU,2048,655,1386,7.0,2020-2021
+07 - Central Visayas,Mandaue City College,LUC,CITY OF MANDAUE,CEBU,1129,310,817,2.0,2020-2021
+07 - Central Visayas,Negros Oriental State University,SUC,CITY OF DUMAGUETE (CAPITAL),NEGROS ORIENTAL,27007,11348,15659,,2020-2021
+07 - Central Visayas,Sibonga Community College,LUC,SIBONGA,CEBU,1194,444,750,,2020-2021
+07 - Central Visayas,Siquijor State College,SUC,LARENA,SIQUIJOR,2221,1119,1101,1.0,2020-2021
+07 - Central Visayas,Talibon Polytechnic College,LUC,TALIBON,BOHOL,1014,447,567,,2020-2021
+07 - Central Visayas,Talisay City College,LUC,CITY OF TALISAY,CEBU,5003,1746,3256,1.0,2020-2021
+07 - Central Visayas,Trinidad Municipal College,LUC,TRINIDAD,BOHOL,4195,1702,2493,,2020-2021
+08 - Eastern Visayas,Abuyog Community College,LUC,ABUYOG,LEYTE,2650,1234,1416,,2020-2021
+08 - Eastern Visayas,Biliran Province State University,SUC,NAVAL (CAPITAL),BILIRAN,8121,3767,4354,,2020-2021
+08 - Eastern Visayas,Burauen Community College,LUC,BURAUEN,LEYTE,1022,616,406,,2020-2021
+08 - Eastern Visayas,Colegio De Las Navas,LUC,LAS NAVAS,NORTHERN SAMAR,606,285,321,,2020-2021
+08 - Eastern Visayas,Eastern Samar State University,SUC,CITY OF BORONGAN (CAPITAL),EASTERN SAMAR,15988,7398,8590,,2020-2021
+08 - Eastern Visayas,Eastern Visayas State University,SUC,CITY OF TACLOBAN (CAPITAL),LEYTE,19543,8492,11051,,2020-2021
+08 - Eastern Visayas,Leyte Normal University,SUC,CITY OF TACLOBAN (CAPITAL),LEYTE,6858,2170,4688,,2020-2021
+08 - Eastern Visayas,Maasin City College,LUC,CITY OF MAASIN,SOUTHERN LEYTE,831,241,590,,2020-2021
+08 - Eastern Visayas,Northwest Samar State University,SUC,CITY OF CALBAYOG,WESTERN SAMAR,6156,2939,3217,,2020-2021
+08 - Eastern Visayas,Palompon Institute Of Technology,SUC,PALOMPON,LEYTE,4752,2822,1930,,2020-2021
+08 - Eastern Visayas,Samar State University,SUC,CITY OF CATBALOGAN (CAPITAL),WESTERN SAMAR,7517,3122,4395,,2020-2021
+08 - Eastern Visayas,Southern Leyte State University,SUC,SOGOD,SOUTHERN LEYTE,9820,4472,5348,,2020-2021
+08 - Eastern Visayas,University Of Eastern Philippines,SUC,CATARMAN (CAPITAL),NORTHERN SAMAR,15474,6516,8958,,2020-2021
+08 - Eastern Visayas,Visayas State University,SUC,CITY OF BAYBAY,LEYTE,12946,4788,8158,,2020-2021
+09 - Zamboanga Peninsula,Jose Rizal Memorial State University,SUC,CITY OF DAPITAN,ZAMBOANGA DEL NORTE,19483,8289,11194,,2020-2021
+09 - Zamboanga Peninsula,Josefina H. Cerilles State College,SUC,SAN MIGUEL,ZAMBOANGA DEL SUR,9593,3517,6076,,2020-2021
+09 - Zamboanga Peninsula,Western Mindanao State University,SUC,CITY OF ZAMBOANGA,ZAMBOANGA DEL SUR,17134,6810,10324,,2020-2021
+09 - Zamboanga Peninsula,Zamboanga Del Sur Provincial Government College,LUC,AURORA,ZAMBOANGA DEL SUR,2220,873,1347,,2020-2021
+09 - Zamboanga Peninsula,Zamboanga Peninsula Polytechnic State University,SUC,CITY OF ZAMBOANGA,ZAMBOANGA DEL SUR,9257,4792,4465,,2020-2021
+09 - Zamboanga Peninsula,Zamboanga State College Of Marine Sciences And Technology,SUC,CITY OF ZAMBOANGA,ZAMBOANGA DEL SUR,3516,1591,1925,,2020-2021
+10 - Northern Mindanao,Bukidnon State University,SUC,CITY OF MALAYBALAY (CAPITAL),BUKIDNON,13228,4975,8253,0.0,2020-2021
+10 - Northern Mindanao,Camiguin Polytechnic State College,SUC,MAMBAJAO (CAPITAL),CAMIGUIN,2895,1355,1540,0.0,2020-2021
+10 - Northern Mindanao,Central Mindanao University,SUC,MARAMAG,BUKIDNON,11228,4245,6745,238.0,2020-2021
+10 - Northern Mindanao,City College Of El Salvador,LUC,CITY OF EL SALVADOR,MISAMIS ORIENTAL,1001,390,611,,2020-2021
+10 - Northern Mindanao,Community College Of Gingoog City,LUC,GINGOOG CITY,MISAMIS ORIENTAL,1148,463,685,,2020-2021
+10 - Northern Mindanao,Don Carlos Polytechnic College,LUC,DON CARLOS,BUKIDNON,2274,1027,1240,7.0,2020-2021
+10 - Northern Mindanao,Gov. Alfonso D. Tan College,LUC,CITY OF TANGUB,MISAMIS OCCIDENTAL,3839,1562,2277,,2020-2021
+10 - Northern Mindanao,Initao College,LUC,INITAO,MISAMIS ORIENTAL,2211,984,1227,0.0,2020-2021
+10 - Northern Mindanao,Magsaysay College,LUC,MAGSAYSAY,MISAMIS ORIENTAL,750,309,439,2.0,2020-2021
+10 - Northern Mindanao,Mindanao State University - Iligan Institute Of Technology,SUC,CITY OF ILIGAN,LANAO DEL NORTE,8001,3210,4791,,2020-2021
+10 - Northern Mindanao,Northern Bukidnon State College,SUC,MANOLO FORTICH,BUKIDNON,1873,656,1203,14.0,2020-2021
+10 - Northern Mindanao,Northwestern Mindanao State College Of Science And Technology,SUC,CITY OF TANGUB,MISAMIS OCCIDENTAL,4193,1949,2244,,2020-2021
+10 - Northern Mindanao,Opol Community College,LUC,OPOL,MISAMIS ORIENTAL,1944,744,1199,1.0,2020-2021
+10 - Northern Mindanao,Pangantucan Bukidnon Community College,LUC,PANGANTUCAN,BUKIDNON,868,373,495,0.0,2020-2021
+10 - Northern Mindanao,Salay Community College,LUC,SALAY,MISAMIS ORIENTAL,841,314,527,0.0,2020-2021
+10 - Northern Mindanao,Tagoloan Community College,LUC,TAGOLOAN,MISAMIS ORIENTAL,6288,2601,3687,,2020-2021
+10 - Northern Mindanao,Tubod College,LUC,TUBOD,LANAO DEL NORTE,871,327,544,,2020-2021
+10 - Northern Mindanao,University Of Science And Technology Of Southern Philippines,SUC,CITY OF CAGAYAN DE ORO (CAPITAL),MISAMIS ORIENTAL,15218,7565,7653,,2020-2021
+11 - Davao Region,Davao De Oro State College,SUC,COMPOSTELA,DAVAO DE ORO,7064,2706,4358,,2020-2021
+11 - Davao Region,Davao Del Norte State College,SUC,CITY OF PANABO,DAVAO DEL NORTE,4090,1636,2454,,2020-2021
+11 - Davao Region,Davao Del Sur State College,SUC,CITY OF DIGOS (CAPITAL),DAVAO DEL SUR,4196,1699,2497,,2020-2021
+11 - Davao Region,Davao Oriental State University,SUC,CITY OF MATI (CAPITAL),DAVAO ORIENTAL,8165,3360,4805,,2020-2021
+11 - Davao Region,"Governor Generoso College Of Arts, Science And Technology",LUC,GOVERNOR GENEROSO,DAVAO ORIENTAL,1098,440,658,,2020-2021
+11 - Davao Region,"Kapalong College Of Agriculture, Sciences And Technology",LUC,KAPALONG,DAVAO DEL NORTE,3368,1355,2013,,2020-2021
+11 - Davao Region,Kolehiyo Ng Pantukan,LUC,PANTUKAN,COMPOSTELA VALLEY,2080,884,1196,,2020-2021
+11 - Davao Region,"Monkayo College Of Arts, Sciences And Technology",LUC,MONKAYO,COMPOSTELA VALLEY,2163,808,1355,,2020-2021
+11 - Davao Region,"Santo Tomas College Of Agriculture, Sciences And Technology",LUC,SANTO TOMAS,DAVAO DEL NORTE,2245,921,1324,,2020-2021
+11 - Davao Region,"Southern Philippines Agri-Business, Marine And Aquatic School Of Technology",SUC,MALITA,DAVAO DEL SUR,2841,1207,1634,,2020-2021
+11 - Davao Region,University Of Southeastern Philippines,SUC,CITY OF DAVAO,DAVAO DEL SUR,6268,2638,3630,,2020-2021
+12 - Soccsksargen,Cotabato Foundation College Of Science And Technology,SUC,ARAKAN,NORTH COTABATO,4011,1663,2348,,2020-2021
+12 - Soccsksargen,Cotabato State University,SUC,CITY OF COTABATO,COTABATO CITY,6028,2633,3395,,2020-2021
+12 - Soccsksargen,Glan Institute Of Technology,LUC,GLAN,SARANGANI,1375,695,680,,2020-2021
+12 - Soccsksargen,Makilala Institute Of Science And Technology,LUC,MAKILALA,NORTH COTABATO,2391,959,1432,,2020-2021
+12 - Soccsksargen,Sultan Kudarat State University,SUC,CITY OF TACURONG,SULTAN KUDARAT,9995,3846,6148,1.0,2020-2021
+12 - Soccsksargen,University Of Southern Mindanao,SUC,KABACAN,NORTH COTABATO,15406,6638,8768,0.0,2020-2021
+13 - NCR,City Of Malabon University,LUC,CITY OF MALABON,METRO MANILA,4995,1838,3157,,2020-2021
+13 - NCR,City University Of Pasay,LUC,CITY OF PASAY,METRO MANILA,4783,1194,3589,,2020-2021
+13 - NCR,Colegio De Muntinlupa,LUC,CITY OF MUNTINLUPA,METRO MANILA,410,271,139,,2020-2021
+13 - NCR,Dr. Filemon C. Aguilar Memorial College Of Las Piñas,LUC,CITY OF LAS PIÑAS,METRO MANILA,2612,885,1724,3.0,2020-2021
+13 - NCR,"Eulogio ""Amang"" Rodriguez Institute Of Science And Technology",SUC,SAMPALOC,METRO MANILA,16954,7888,9066,,2020-2021
+13 - NCR,Marikina Polytechnic College,SUC,CITY OF MARIKINA,METRO MANILA,5539,2945,2594,,2020-2021
+13 - NCR,Navotas Polytechnic College,LUC,CITY OF NAVOTAS,METRO MANILA,2826,999,1827,,2020-2021
+13 - NCR,Pamantasan Ng Lungsod Ng Maynila,LUC,INTRAMUROS,METRO MANILA,11068,3738,7330,,2020-2021
+13 - NCR,Pamantasan Ng Lungsod Ng Muntinlupa,LUC,CITY OF MUNTINLUPA,METRO MANILA,9701,4318,5383,,2020-2021
+13 - NCR,Pamantasan Ng Lungsod Ng Pasig,LUC,CITY OF PASIG,METRO MANILA,3042,1060,1981,1.0,2020-2021
+13 - NCR,Pamantasan Ng Lungsod Ng Valenzuela,LUC,CITY OF VALENZUELA,METRO MANILA,4358,1534,2824,,2020-2021
+13 - NCR,Pateros Technological College,LUC,PATEROS,METRO MANILA,1387,643,739,5.0,2020-2021
+13 - NCR,Philippine Normal University,SUC,ERMITA,METRO MANILA,5102,1425,3677,,2020-2021
+13 - NCR,Philippine State College Of Aeronautics,SUC,PASAY CITY,METRO MANILA,8508,6121,2379,8.0,2020-2021
+13 - NCR,Polytechnic University Of The Philippines,SUC,SAMPALOC,METRO MANILA,59478,23206,36271,1.0,2020-2021
+13 - NCR,Rizal Technological University,SUC,CITY OF MANDALUYONG,METRO MANILA,22637,9059,13578,,2020-2021
+13 - NCR,Taguig City University,LUC,TAGUIG CITY,METRO MANILA,8667,3819,4848,,2020-2021
+13 - NCR,Technological University Of The Philippines,SUC,ERMITA,METRO MANILA,20995,12371,8624,,2020-2021
+13 - NCR,University Of The Philippines,SUC,QUEZON CITY,METRO MANILA,32644,12587,16937,3120.0,2020-2021
+13 - NCR,Valenzuela City Polytechnic College,LUC,CITY OF VALENZUELA,METRO MANILA,1789,1004,785,,2020-2021
+14 - CAR,Abra State Institute Of Science And Technology,SUC,LANGAGILANG,ABRA,4610,2183,2427,,2020-2021
+14 - CAR,Apayao State College,SUC,CONNER,APAYAO,3404,1390,2014,,2020-2021
+14 - CAR,Benguet State University,SUC,LA TRINIDAD,BENGUET,6739,1965,4774,,2020-2021
+14 - CAR,Ifugao State University,SUC,LAMUT,IFUGAO,6487,2797,3690,,2020-2021
+14 - CAR,Kalinga State University,SUC,TABUK CITY,KALINGA,5984,2496,3488,,2020-2021
+14 - CAR,Mountain Province State Polytechnic College,SUC,BONTOC,MOUNTAIN PROVINCE,4516,2070,2446,,2020-2021
+15 - BARMM,Adiong Memorial Polytechnic State College,SUC,DITSAAN-RAMAIN,LANAO DEL SUR,1115,376,739,,2020-2021
+15 - BARMM,Basilan State College,SUC,CITY OF LAMITAN (CAPITAL),BASILAN,6344,2822,3522,,2020-2021
+15 - BARMM,Mindanao State University-Tawi-Tawi College Of Technology And Oceanography,SUC,BONGAO (CAPITAL),TAWI-TAWI,1886,717,1169,,2020-2021
+15 - BARMM,Sulu State College,SUC,JOLO (CAPITAL),SULU PROVINCE,4663,1830,2833,,2020-2021
+15 - BARMM,Tawi-Tawi Regional Agricultural College,SUC,BONGAO (CAPITAL),TAWI-TAWI,2246,1126,1120,,2020-2021
+15 - BARMM,Mindanao State University,SUC,CITY OF MARAWI (CAPITAL),LANAO DEL SUR,26448,3829,15957,6662.0,2020-2021
+16 - Caraga,Agusan Del Sur State College Of Agriculture And Technology,SUC,BUNAWAN,AGUSAN DEL SUR,6740,2493,4246,1.0,2020-2021
+16 - Caraga,Caraga State University,SUC,CITY OF BUTUAN (CAPITAL),AGUSAN DEL NORTE,9510,4011,5499,0.0,2020-2021
+16 - Caraga,Hinatuan Southern College,LUC,HINATUAN,SURIGAO DEL SUR,954,362,592,,2020-2021
+16 - Caraga,North Eastern Mindanao State University (Sdssu),SUC,CITY OF TANDAG (CAPITAL),SURIGAO DEL SUR,17692,8039,9653,0.0,2020-2021
+16 - Caraga,Surigao State College Of Technology,SUC,CITY OF SURIGAO (CAPITAL),SURIGAO DEL NORTE,9448,4260,5062,126.0,2020-2021
+17 - MIMAROPA,Baco Community College,LUC,BACO,ORIENTAL MINDORO,328,117,211,,2020-2021
+17 - MIMAROPA,City College Of Calapan,LUC,CITY OF CALAPAN (CAPITAL),ORIENTAL MINDORO,1189,382,807,,2020-2021
+17 - MIMAROPA,Marinduque State College,SUC,BOAC (CAPITAL),MARINDUQUE,6421,2865,3556,,2020-2021
+17 - MIMAROPA,Mindoro State University,SUC,VICTORIA,ORIENTAL MINDORO,8531,3483,5048,,2020-2021
+17 - MIMAROPA,Occidental Mindoro State College,SUC,SAN JOSE,OCCIDENTAL MINDORO,13154,5481,7673,,2020-2021
+17 - MIMAROPA,Palawan State University,SUC,CITY OF PUERTO PRINCESA (CAPITAL),PALAWAN,22252,8808,13444,,2020-2021
+17 - MIMAROPA,Romblon State University,SUC,ODIONGAN,ROMBLON,12387,5690,6697,,2020-2021
+17 - MIMAROPA,Western Philippines University,SUC,ABORLAN,PALAWAN,9498,4105,5393,,2020-2021
+01 - Ilocos Region,Binalatongan Community College,LUC,SAN CARLOS CITY,PANGASINAN,2253,737,1516,,2021-2022
+01 - Ilocos Region,Don Mariano Marcos Memorial State University,SUC,SAN FERNANDO CITY,LA UNION,18833,7566,11267,,2021-2022
+01 - Ilocos Region,Ilocos Sur Community College,LUC,VIGAN CITY,ILOCOS SUR,2413,988,1425,,2021-2022
+01 - Ilocos Region,Ilocos Sur Polytechnic State College,SUC,SANTA MARIA,ILOCOS SUR,7059,2932,4127,,2021-2022
+01 - Ilocos Region,Mariano Marcos State University,SUC,BATAC CITY,ILOCOS NORTE,13680,5294,8386,,2021-2022
+01 - Ilocos Region,North Luzon Philippines State College,SUC,CANDON CITY,ILOCOS SUR,4548,1940,2608,,2021-2022
+01 - Ilocos Region,Pangasinan State University,SUC,LINGAYEN,PANGASINAN,30712,11955,18757,,2021-2022
+01 - Ilocos Region,University of Eastern Pangasinan,LUC,BINALONAN,PANGASINAN,5382,2085,3297,,2021-2022
+01 - Ilocos Region,University of Northern Philippines,SUC,VIGAN CITY,ILOCOS SUR,15063,6406,8657,,2021-2022
+01 - Ilocos Region,Urdaneta City University,LUC,URDANETA CITY,PANGASINAN,11975,4776,7199,,2021-2022
+02 - Cagayan Valley,Batanes State College,SUC,BASCO,BATANES,715,347,368,,2021-2022
+02 - Cagayan Valley,Cagayan State University,SUC,TUGUEGARAO CITY,CAGAYAN,30853,11779,19074,,2021-2022
+02 - Cagayan Valley,Isabela State University,SUC,ECHAGUE,ISABELA,37553,15415,22138,,2021-2022
+02 - Cagayan Valley,Nueva Vizcaya State University,SUC,BAYOMBONG,NUEVA VIZCAYA,13124,6264,6860,,2021-2022
+02 - Cagayan Valley,Quirino State University,SUC,DIFFUN,QUIRINO PROVINCE,6336,2730,3606,,2021-2022
+03 - Central Luzon,Aurora State College of Technology,SUC,BALER,AURORA,6286,2795,3491,,2021-2022
+03 - Central Luzon,Baliwag Polytechnic College,LUC,BALIUAG,BULACAN,5376,2011,3365,,2021-2022
+03 - Central Luzon,Bataan Peninsula State University,SUC,CITY OF BALANGA (CAPITAL),BATAAN,14087,5947,8140,,2021-2022
+03 - Central Luzon,Bulacan Agricultural State College,SUC,SAN ILDEFONSO,BULACAN,6600,2893,3705,2.0,2021-2022
+03 - Central Luzon,Bulacan Polytechnic College,LUC,CITY OF MALOLOS (CAPITAL),BULACAN,3791,1375,2338,78.0,2021-2022
+03 - Central Luzon,Bulacan State University,SUC,CITY OF MALOLOS (CAPITAL),BULACAN,42612,18157,24455,0.0,2021-2022
+03 - Central Luzon,Central Luzon State University,SUC,SCIENCE CITY OF MUÑOZ,NUEVA ECIJA,12012,4312,7700,0.0,2021-2022
+03 - Central Luzon,City College of Angeles,LUC,CITY OF ANGELES,PAMPANGA,4346,1658,2688,,2021-2022
+03 - Central Luzon,City College of San Fernando,LUC,CITY OF SAN FERNANDO (CAPITAL),PAMPANGA,888,251,637,,2021-2022
+03 - Central Luzon,Don Honorio Ventura Technological State University,SUC,BACOLOR,PAMPANGA,38393,17814,20578,1.0,2021-2022
+03 - Central Luzon,Eduardo L. Joson Memorial College,LUC,CITY OF PALAYAN (CAPITAL),NUEVA ECIJA,1291,287,1004,,2021-2022
+03 - Central Luzon,Gordon College,LUC,CITY OF OLONGAPO,ZAMBALES,5522,1921,3601,,2021-2022
+03 - Central Luzon,Guagua Community College,LUC,GUAGUA,PAMPANGA,1046,377,669,,2021-2022
+03 - Central Luzon,Kolehiyo ng Subic,LUC,CITY OF OLONGAPO,ZAMBALES,3675,1335,2340,,2021-2022
+03 - Central Luzon,Mabalacat City College,LUC,MABALACAT CITY,PAMPANGA,3753,1373,2380,,2021-2022
+03 - Central Luzon,Norzagaray College,LUC,NORZAGARAY,BULACAN,1181,452,727,2.0,2021-2022
+03 - Central Luzon,Nueva Ecija University of Science and Technology,SUC,CITY OF CABANATUAN,NUEVA ECIJA,23913,10495,13418,,2021-2022
+03 - Central Luzon,Pambayang Dalubhasaan ng Marilao,LUC,MARILAO,BULACAN,1654,680,974,,2021-2022
+03 - Central Luzon,Pampanga State Agricultural University,SUC,MAGALANG,PAMPANGA,7473,3297,4176,,2021-2022
+03 - Central Luzon,Philippine Merchant Marine Academy,SUC,SAN NARCISO,ZAMBALES,977,908,69,,2021-2022
+03 - Central Luzon,Polytechnic College of Botolan,LUC,BOTOLAN,ZAMBALES,928,341,587,,2021-2022
+03 - Central Luzon,Polytechnic College of the City of Meycauayan,LUC,CITY OF MEYCAUAYAN,BULACAN,1372,440,932,,2021-2022
+03 - Central Luzon,President Ramon Magsaysay State University,SUC,IBA (CAPITAL),ZAMBALES,12897,5479,7404,14.0,2021-2022
+03 - Central Luzon,Tarlac Agricultural University,SUC,CAMILING,TARLAC,6278,2475,3803,,2021-2022
+03 - Central Luzon,Tarlac State University,SUC,CITY OF TARLAC (CAPITAL),TARLAC,20588,8448,12140,,2021-2022
+04 - CALABARZON,Antipolo Institute of Technology (AiTECH),LUC,CITY OF ANTIPOLO (CAPITAL),RIZAL PROVINCE,452,262,190,,2021-2022
+04 - CALABARZON,Balian Community College,LUC,PANGIL,LAGUNA,785,164,621,,2021-2022
+04 - CALABARZON,Batangas State University,SUC,BATANGAS CITY (CAPITAL),BATANGAS,50426,19526,30900,,2021-2022
+04 - CALABARZON,Cavite State University,SUC,INDANG,CAVITE,58055,22990,35065,,2021-2022
+04 - CALABARZON,City College of Calamba,LUC,CITY OF CALAMBA,LAGUNA,3322,1126,2196,,2021-2022
+04 - CALABARZON,City College of Tagaytay,LUC,CITY OF TAGAYTAY,CAVITE,4341,1751,2590,,2021-2022
+04 - CALABARZON,Colegio de Montalban,LUC,RODRIGUEZ (MONTALBAN),RIZAL PROVINCE,5425,2449,2976,,2021-2022
+04 - CALABARZON,Colegio ng Lungsod ng Batangas,LUC,BATANGAS CITY (CAPITAL),BATANGAS,936,183,753,,2021-2022
+04 - CALABARZON,Dalubhasaan ng Lungsod ng Lucena,LUC,CITY OF LUCENA (CAPITAL),QUEZON PROVINCE,3019,1118,1901,,2021-2022
+04 - CALABARZON,Kolehiyo ng Lungsod ng Lipa,LUC,LIPA CITY,BATANGAS,6936,2558,4378,,2021-2022
+04 - CALABARZON,Laguna State Polytechnic University,SUC,SANTA CRUZ (CAPITAL),LAGUNA,28397,12314,16083,,2021-2022
+04 - CALABARZON,Laguna University,LUC,SANTA CRUZ (CAPITAL),LAGUNA,4592,1790,2802,,2021-2022
+04 - CALABARZON,One Cainta College,LUC,CAINTA,RIZAL PROVINCE,1219,479,740,,2021-2022
+04 - CALABARZON,Pamantasan ng Cabuyao,LUC,CITY OF CABUYAO,LAGUNA,5994,2308,3686,,2021-2022
+04 - CALABARZON,PAMANTASAN ng Lungsod ng San Pablo,LUC,CITY OF SAN PABLO,LAGUNA,8115,3152,4963,,2021-2022
+04 - CALABARZON,Pambayang Kolehiyo ng Mauban,LUC,MAUBAN,QUEZON PROVINCE,904,248,656,,2021-2022
+04 - CALABARZON,San Mateo Municipal College,LUC,SAN MATEO,RIZAL PROVINCE,5558,1577,3981,,2021-2022
+04 - CALABARZON,Southern Luzon State University,SUC,LUCBAN,QUEZON PROVINCE,11557,4170,7387,,2021-2022
+04 - CALABARZON,Tanauan City College,LUC,CITY OF TANAUAN,BATANGAS,1257,522,735,,2021-2022
+04 - CALABARZON,Trece Martires City College,LUC,CITY OF TRECE MARTIRES (CAPITAL),CAVITE,1747,639,1108,,2021-2022
+04 - CALABARZON,University of Rizal System,SUC,TANAY,RIZAL PROVINCE,20764,8128,12636,,2021-2022
+05 - Bicol Region,Aroroy Municipal College,LUC,AROROY,MASBATE,1270,392,878,0.0,2021-2022
+05 - Bicol Region,Baao Community College,LUC,BAAO,CAMARINES SUR,4262,1260,2999,3.0,2021-2022
+05 - Bicol Region,Bicol State College of Applied Sciences and Technology,SUC,CITY OF NAGA,CAMARINES SUR,4278,1806,2144,328.0,2021-2022
+05 - Bicol Region,Bicol University,SUC,LEGAZPI CITY,ALBAY,24993,9258,15671,64.0,2021-2022
+05 - Bicol Region,Calabanga Community College,LUC,CALABANGA,CAMARINES SUR,1521,389,1131,1.0,2021-2022
+05 - Bicol Region,Camarines Norte State College,SUC,DAET (CAPITAL),CAMARINES NORTE,9287,3500,5785,2.0,2021-2022
+05 - Bicol Region,Camarines Sur Polytechnic College,SUC,NABUA,CAMARINES SUR,10051,4125,5926,,2021-2022
+05 - Bicol Region,Caramoan Community College,LUC,CARAMOAN,CAMARINES SUR,1743,554,1189,,2021-2022
+05 - Bicol Region,Catanduanes State University,SUC,VIRAC (CAPITAL),CATANDUANES,11030,4562,6468,,2021-2022
+05 - Bicol Region,Central Bicol State University of Agriculture,SUC,PILI (CAPITAL),CAMARINES SUR,12173,2942,5438,3793.0,2021-2022
+05 - Bicol Region,City College of Naga,LUC,CITY OF NAGA,CAMARINES SUR,239,17,222,,2021-2022
+05 - Bicol Region,Community College of Manito,LUC,MANITO,ALBAY,827,298,528,1.0,2021-2022
+05 - Bicol Region,Daraga Community College,LUC,DARAGA,ALBAY,7212,2419,4787,6.0,2021-2022
+05 - Bicol Region,Donsol Community College,LUC,DONSOL,SORSOGON,1054,426,628,0.0,2021-2022
+05 - Bicol Region,"Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology",SUC,MANDAON,MASBATE,6967,2949,4013,5.0,2021-2022
+05 - Bicol Region,Governor Mariano E. Villafuerte Community College,LUC,GARCHITORENA,CAMARINES SUR,2330,852,1475,3.0,2021-2022
+05 - Bicol Region,Libon Community College,LUC,LIBON,ALBAY,1980,788,1192,0.0,2021-2022
+05 - Bicol Region,Ligao Community College,LUC,CITY OF LIGAO,ALBAY,1699,523,1176,0.0,2021-2022
+05 - Bicol Region,Oas Community College,LUC,OAS,ALBAY,2772,1097,1675,0.0,2021-2022
+05 - Bicol Region,Partido State University,SUC,GOA,CAMARINES SUR,6537,2603,3933,1.0,2021-2022
+05 - Bicol Region,Polangui Community College,LUC,POLANGUI,ALBAY,2327,788,1538,1.0,2021-2022
+05 - Bicol Region,Rapu-Rapu Community College,LUC,RAPU-RAPU,ALBAY,454,187,266,1.0,2021-2022
+05 - Bicol Region,San Jose Community College,LUC,MALILIPOT,ALBAY,7798,3153,4645,0.0,2021-2022
+05 - Bicol Region,San Pascual Polytechnic College,LUC,SAN PASCUAL,MASBATE,240,57,183,0.0,2021-2022
+05 - Bicol Region,Sorsogon State University,SUC,CITY OF SORSOGON (CAPITAL),SORSOGON,12000,5236,6763,1.0,2021-2022
+05 - Bicol Region,Tiwi Community College,LUC,TIWI,ALBAY,2156,787,1369,0.0,2021-2022
+06 - Western Visayas,Aklan State University,SUC,BANGA,AKLAN,10990,4099,6891,,2021-2022
+06 - Western Visayas,Bacolod City College,LUC,CITY OF BACOLOD (CAPITAL),NEGROS OCCIDENTAL,3067,925,2142,,2021-2022
+06 - Western Visayas,Bago City College,LUC,CITY OF BAGO,NEGROS OCCIDENTAL,5182,2244,2938,,2021-2022
+06 - Western Visayas,Capiz State University,SUC,CITY OF ROXAS (CAPITAL),CAPIZ,22450,9434,13016,,2021-2022
+06 - Western Visayas,Carlos Hilado Memorial State College,SUC,CITY OF TALISAY,NEGROS OCCIDENTAL,12750,5109,7641,,2021-2022
+06 - Western Visayas,Central Philippine State University,SUC,CITY OF KABANKALAN,NEGROS OCCIDENTAL,13498,5598,7900,,2021-2022
+06 - Western Visayas,Guimaras State College,SUC,BUENAVISTA,GUIMARAS,5880,2602,3278,,2021-2022
+06 - Western Visayas,Iloilo City Community College,LUC,CITY OF ILOILO (CAPITAL),ILOILO,755,156,599,,2021-2022
+06 - Western Visayas,Iloilo Science and Technology University,SUC,CITY OF ILOILO (CAPITAL),ILOILO,16780,7281,9499,,2021-2022
+06 - Western Visayas,Iloilo State College of Fisheries,SUC,BAROTAC NUEVO,ILOILO,7315,3097,4218,,2021-2022
+06 - Western Visayas,Northern Iloilo Polytechnic State College,SUC,ESTANCIA,ILOILO,13607,5599,8008,,2021-2022
+06 - Western Visayas,Northern Negros State College of Science and Technology,SUC,CITY OF SAGAY,NEGROS OCCIDENTAL,7682,2705,4977,,2021-2022
+06 - Western Visayas,Libacao College of Science and Technology,LUC,LIBACAO,AKLAN,220,101,119,,2021-2022
+06 - Western Visayas,Passi City College,LUC,CITY OF PASSI,ILOILO,1952,826,1126,,2021-2022
+06 - Western Visayas,University of Antique,SUC,SIBALOM,ANTIQUE,20547,8936,11611,,2021-2022
+06 - Western Visayas,West Visayas State University,SUC,CITY OF ILOILO (CAPITAL),ILOILO,17107,5851,11256,,2021-2022
+07 - Central Visayas,BOHOL ISLAND STATE UNIVERSITY,SUC,CITY OF TAGBILARAN (CAPITAL),BOHOL,18516,6839,11677,,2021-2022
+07 - Central Visayas,BUENAVISTA COMMUNITY COLLEGE,LUC,BUENAVISTA,BOHOL,3789,1667,2122,,2021-2022
+07 - Central Visayas,CARCAR CITY COLLEGE,LUC,CITY OF CARCAR,CEBU,1724,639,1085,,2021-2022
+07 - Central Visayas,CEBU NORMAL UNIVERSITY,SUC,CITY OF CEBU (CAPITAL),CEBU,7711,1450,6261,,2021-2022
+07 - Central Visayas,CEBU TECHNOLOGICAL UNIVERSITY,SUC,CITY OF CEBU (CAPITAL),CEBU,52877,21799,31078,,2021-2022
+07 - Central Visayas,CONSOLACION COMMUNITY COLLEGE,LUC,CONSOLACION,CEBU,1657,464,1193,,2021-2022
+07 - Central Visayas,CORDOVA PUBLIC COLLEGE,LUC,CORDOVA,CEBU,2786,969,1817,,2021-2022
+07 - Central Visayas,LAPU-LAPU CITY COLLEGE,LUC,CITY OF LAPU-LAPU (OPON),CEBU,1756,547,1209,,2021-2022
+07 - Central Visayas,MADRIDEJOS COMMUNITY COLLEGE,LUC,MADRIDEJOS,CEBU,2702,933,1769,,2021-2022
+07 - Central Visayas,MANDAUE CITY COLLEGE,LUC,CITY OF MANDAUE,CEBU,2090,591,1499,,2021-2022
+07 - Central Visayas,NEGROS ORIENTAL STATE UNIVERSITY,SUC,CITY OF DUMAGUETE (CAPITAL),NEGROS ORIENTAL,29160,11333,17827,,2021-2022
+07 - Central Visayas,SIBONGA COMMUNITY COLLEGE,LUC,SIBONGA,CEBU,1672,573,1099,,2021-2022
+07 - Central Visayas,SIQUIJOR STATE COLLEGE,SUC,LARENA,SIQUIJOR,2916,1379,1537,,2021-2022
+07 - Central Visayas,TALIBON POLYTECHNIC COLLEGE,LUC,TALIBON,BOHOL,1599,675,924,,2021-2022
+07 - Central Visayas,TALISAY CITY COLLEGE,LUC,CITY OF TALISAY,CEBU,5222,1683,3539,,2021-2022
+07 - Central Visayas,TRINIDAD MUNICIPAL COLLEGE,LUC,TRINIDAD,BOHOL,4809,1780,3029,,2021-2022
+08 - Eastern Visayas,Abuyog Community College,LUC,ABUYOG,LEYTE,3588,1554,2034,,2021-2022
+08 - Eastern Visayas,Biliran Province State University,SUC,NAVAL (CAPITAL),BILIRAN,9483,4158,5325,,2021-2022
+08 - Eastern Visayas,Burauen Community College,LUC,BURAUEN,LEYTE,2233,1286,947,,2021-2022
+08 - Eastern Visayas,Colegio De Las Navas,LUC,LAS NAVAS,NORTHERN SAMAR,1495,681,814,,2021-2022
+08 - Eastern Visayas,Eastern Samar State University,SUC,CITY OF BORONGAN (CAPITAL),EASTERN SAMAR,20503,9235,11268,,2021-2022
+08 - Eastern Visayas,Eastern Visayas State University,SUC,CITY OF TACLOBAN (CAPITAL),LEYTE,21666,8569,13097,,2021-2022
+08 - Eastern Visayas,Leyte Normal University,SUC,CITY OF TACLOBAN (CAPITAL),LEYTE,7715,2262,5453,,2021-2022
+08 - Eastern Visayas,Northwest Samar State University,SUC,CITY OF CALBAYOG,WESTERN SAMAR,6885,3170,3715,,2021-2022
+08 - Eastern Visayas,Palompon Institute of Technology,SUC,PALOMPON,LEYTE,5442,3034,2408,,2021-2022
+08 - Eastern Visayas,Samar State University,SUC,CITY OF CATBALOGAN (CAPITAL),WESTERN SAMAR,8748,3585,5163,,2021-2022
+08 - Eastern Visayas,Southern Leyte State University,SUC,SOGOD,SOUTHERN LEYTE,11590,4582,7008,,2021-2022
+08 - Eastern Visayas,University of Eastern Philippines,SUC,CATARMAN (CAPITAL),NORTHERN SAMAR,19940,8129,11811,,2021-2022
+08 - Eastern Visayas,Visayas State University,SUC,CITY OF BAYBAY,LEYTE,14302,4885,9417,,2021-2022
+09 - Zamboanga Peninsula,Jose Rizal Memorial State University,SUC,CITY OF DAPITAN,ZAMBOANGA DEL NORTE,23643,9257,14386,,2021-2022
+09 - Zamboanga Peninsula,Josefina H. Cerilles State College,SUC,SAN MIGUEL,ZAMBOANGA DEL SUR,11156,3911,7245,,2021-2022
+09 - Zamboanga Peninsula,Western Mindanao State University,SUC,CITY OF ZAMBOANGA,ZAMBOANGA DEL SUR,18185,9724,8461,,2021-2022
+09 - Zamboanga Peninsula,Zamboanga del Sur Provincial Government College,LUC,AURORA,ZAMBOANGA DEL SUR,2642,969,1673,,2021-2022
+09 - Zamboanga Peninsula,Zamboanga Peninsula Polytechnic State University,SUC,CITY OF ZAMBOANGA,ZAMBOANGA DEL SUR,12551,6460,6091,,2021-2022
+09 - Zamboanga Peninsula,Zamboanga State College of Marine Sciences and Technology,SUC,CITY OF ZAMBOANGA,ZAMBOANGA DEL SUR,4691,2531,2160,,2021-2022
+10 - Northern Mindanao,Bukidnon State University,SUC,CITY OF MALAYBALAY (CAPITAL),BUKIDNON,13908,4891,9017,,2021-2022
+10 - Northern Mindanao,Camiguin Polytechnic State College,SUC,MAMBAJAO (CAPITAL),CAMIGUIN,3445,1484,1961,,2021-2022
+10 - Northern Mindanao,Central Mindanao University,SUC,MARAMAG,BUKIDNON,13175,4725,8450,,2021-2022
+10 - Northern Mindanao,City College of El Salvador,LUC,CITY OF EL SALVADOR,MISAMIS ORIENTAL,1620,614,1006,,2021-2022
+10 - Northern Mindanao,Community College of Gingoog City,LUC,GINGOOG CITY,MISAMIS ORIENTAL,1913,729,1184,,2021-2022
+10 - Northern Mindanao,Don Carlos Polytechnic College,LUC,DON CARLOS,BUKIDNON,4110,1701,2409,,2021-2022
+10 - Northern Mindanao,Gov. Alfonso D. Tan College,LUC,CITY OF TANGUB,MISAMIS OCCIDENTAL,5245,2033,3212,,2021-2022
+10 - Northern Mindanao,Initao College,LUC,INITAO,MISAMIS ORIENTAL,3818,1704,2114,,2021-2022
+10 - Northern Mindanao,Magsaysay College,LUC,MAGSAYSAY,MISAMIS ORIENTAL,966,382,584,,2021-2022
+10 - Northern Mindanao,Mindanao State University - Iligan Institute of Technology,SUC,CITY OF ILIGAN,LANAO DEL NORTE,9790,3815,5975,,2021-2022
+10 - Northern Mindanao,Northern Bukidnon State College,SUC,MANOLO FORTICH,BUKIDNON,2209,687,1522,,2021-2022
+10 - Northern Mindanao,Northwestern Mindanao State College of Science and Technology,SUC,CITY OF TANGUB,MISAMIS OCCIDENTAL,5285,2225,3060,,2021-2022
+10 - Northern Mindanao,Opol Community College,LUC,OPOL,MISAMIS ORIENTAL,2201,747,1454,,2021-2022
+10 - Northern Mindanao,Pangantucan Bukidnon Community College,LUC,PANGANTUCAN,BUKIDNON,1389,568,821,,2021-2022
+10 - Northern Mindanao,Salay Community College,LUC,SALAY,MISAMIS ORIENTAL,1629,576,1053,,2021-2022
+10 - Northern Mindanao,Tagoloan Community College,LUC,TAGOLOAN,MISAMIS ORIENTAL,9215,3558,5657,,2021-2022
+10 - Northern Mindanao,Tubod College,LUC,TUBOD,LANAO DEL NORTE,1258,475,783,,2021-2022
+10 - Northern Mindanao,University of Science and Technology of Southern Philippines,SUC,CITY OF CAGAYAN DE ORO (CAPITAL),MISAMIS ORIENTAL,19636,9295,10341,,2021-2022
+11 - Davao Region,Davao de Oro State College,SUC,COMPOSTELA,DAVAO DE ORO,7065,2473,4591,1.0,2021-2022
+11 - Davao Region,Davao del Norte State College,SUC,CITY OF PANABO,DAVAO DEL NORTE,5630,2051,3579,0.0,2021-2022
+11 - Davao Region,Davao del Sur State College,SUC,CITY OF DIGOS (CAPITAL),DAVAO DEL SUR,5517,2046,3471,0.0,2021-2022
+11 - Davao Region,Davao Oriental State University,SUC,CITY OF MATI (CAPITAL),DAVAO ORIENTAL,12534,4295,7048,1191.0,2021-2022
+11 - Davao Region,"Governor Generoso College of Arts, Science and Technology",LUC,GOVERNOR GENEROSO,DAVAO ORIENTAL,1511,577,934,,2021-2022
+11 - Davao Region,"Kapalong College of Agriculture, Sciences and Technology",LUC,KAPALONG,DAVAO DEL NORTE,4670,1789,2881,,2021-2022
+11 - Davao Region,Kolehiyo ng Pantukan,LUC,PANTUKAN,COMPOSTELA VALLEY,2722,1099,1623,,2021-2022
+11 - Davao Region,"Monkayo College of Arts, Sciences and Technology",LUC,MONKAYO,COMPOSTELA VALLEY,3072,1055,2017,,2021-2022
+11 - Davao Region,"Santo Tomas College of Agriculture, Sciences and Technology",LUC,SANTO TOMAS,DAVAO DEL NORTE,3151,1234,1917,,2021-2022
+11 - Davao Region,"Southern Philippines Agri-Business, Marine and Aquatic School of Technology",SUC,MALITA,DAVAO DEL SUR,5737,2241,3495,1.0,2021-2022
+11 - Davao Region,University of Southeastern Philippines,SUC,CITY OF DAVAO,DAVAO DEL SUR,6641,2475,4166,0.0,2021-2022
+12 - Soccsksargen,Cotabato Foundation College of Science and Technology,SUC,ARAKAN,NORTH COTABATO,5093,1991,3102,,2021-2022
+12 - Soccsksargen,Cotabato State University,SUC,CITY OF COTABATO,COTABATO CITY,7838,3251,4587,,2021-2022
+12 - Soccsksargen,Glan Institute of Technology,LUC,GLAN,SARANGANI,2332,1103,1229,,2021-2022
+12 - Soccsksargen,Makilala Institute of Science and Technology,LUC,MAKILALA,NORTH COTABATO,3516,1393,2123,,2021-2022
+12 - Soccsksargen,Sultan Kudarat State University,SUC,CITY OF TACURONG,SULTAN KUDARAT,11283,3888,7395,0.0,2021-2022
+12 - Soccsksargen,University of Southern Mindanao,SUC,KABACAN,NORTH COTABATO,18075,5431,8812,3832.0,2021-2022
+13 - NCR,City of Malabon University,LUC,CITY OF MALABON,METRO MANILA,4957,1974,2805,178.0,2021-2022
+13 - NCR,City University of Pasay,LUC,CITY OF PASAY,METRO MANILA,4783,1195,3588,,2021-2022
+13 - NCR,Colegio De Muntinlupa,LUC,CITY OF MUNTINLUPA,METRO MANILA,833,544,289,,2021-2022
+13 - NCR,Dr. Filemon C. Aguilar Memorial College of Las Piñas,LUC,CITY OF LAS PIÑAS,METRO MANILA,3126,1057,2069,,2021-2022
+13 - NCR,"Eulogio ""Amang"" Rodriguez Institute of Science and Technology",SUC,SAMPALOC,METRO MANILA,19982,9007,10963,12.0,2021-2022
+13 - NCR,Marikina Polytechnic College,SUC,CITY OF MARIKINA,METRO MANILA,5272,2691,2578,3.0,2021-2022
+13 - NCR,Navotas Polytechnic College,LUC,CITY OF NAVOTAS,METRO MANILA,3007,928,2079,,2021-2022
+13 - NCR,Pamantasan ng Lungsod ng Marikina,LUC,CITY OF MARIKINA,METRO MANILA,5264,2022,3242,,2021-2022
+13 - NCR,Pamantasan ng Lungsod ng Maynila,LUC,INTRAMUROS,METRO MANILA,16624,5530,11094,,2021-2022
+13 - NCR,Pamantasan ng Lungsod ng Muntinlupa,LUC,CITY OF MUNTINLUPA,METRO MANILA,10491,4541,5950,,2021-2022
+13 - NCR,Pamantasan ng Lungsod ng Pasig,LUC,CITY OF PASIG,METRO MANILA,3865,1269,2596,,2021-2022
+13 - NCR,Pamantasan ng Lungsod ng Valenzuela,LUC,CITY OF VALENZUELA,METRO MANILA,5991,2072,3918,1.0,2021-2022
+13 - NCR,Pateros Technological College,LUC,PATEROS,METRO MANILA,2564,1106,1458,,2021-2022
+13 - NCR,Philippine Normal University,SUC,ERMITA,METRO MANILA,6546,1773,4773,,2021-2022
+13 - NCR,Philippine State College of Aeronautics,SUC,PASAY CITY,METRO MANILA,9081,6375,2706,,2021-2022
+13 - NCR,Polytechnic University of the Philippines,SUC,SAMPALOC,METRO MANILA,74583,26944,47638,1.0,2021-2022
+13 - NCR,Quezon City University,LUC,QUEZON CITY,METRO MANILA,10798,4760,6038,,2021-2022
+13 - NCR,Rizal Technological University,SUC,CITY OF MANDALUYONG,METRO MANILA,26577,10171,16406,,2021-2022
+13 - NCR,Taguig City University,LUC,TAGUIG CITY,METRO MANILA,7266,2967,4299,,2021-2022
+13 - NCR,Technological University of the Philippines,SUC,ERMITA,METRO MANILA,29392,17196,12196,0.0,2021-2022
+13 - NCR,University of the Philippines,SUC,QUEZON CITY,METRO MANILA,38264,14846,22691,727.0,2021-2022
+13 - NCR,Valenzuela City Polytechnic College,LUC,CITY OF VALENZUELA,METRO MANILA,2509,1433,1076,,2021-2022
+14 - CAR,Abra State Institute of Science and Technology,SUC,LANGAGILANG,ABRA,6090,2756,3334,,2021-2022
+14 - CAR,Apayao State College,SUC,CONNER,APAYAO,4020,1542,2478,,2021-2022
+14 - CAR,Benguet State University,SUC,LA TRINIDAD,BENGUET,9236,2559,6677,,2021-2022
+14 - CAR,Ifugao State University,SUC,LAMUT,IFUGAO,8576,3495,5081,,2021-2022
+14 - CAR,Kalinga State University,SUC,TABUK CITY,KALINGA,6782,2560,4222,,2021-2022
+14 - CAR,Mountain Province State Polytechnic College,SUC,BONTOC,MOUNTAIN PROVINCE,5490,2419,3071,,2021-2022
+15 - BARMM,Adiong Memorial Polytechnic State College,SUC,DITSAAN-RAMAIN,LANAO DEL SUR,1299,406,893,,2021-2022
+15 - BARMM,Basilan State College,SUC,CITY OF LAMITAN (CAPITAL),BASILAN,8471,3684,4787,,2021-2022
+15 - BARMM,Mindanao State University-Tawi-Tawi College of Technology and Oceanography,SUC,BONGAO (CAPITAL),TAWI-TAWI,2281,843,1438,,2021-2022
+15 - BARMM,Sulu State College,SUC,JOLO (CAPITAL),SULU PROVINCE,6014,2351,3663,,2021-2022
+15 - BARMM,Tawi-Tawi Regional Agricultural College,SUC,BONGAO (CAPITAL),TAWI-TAWI,3342,1581,1761,,2021-2022
+15 - BARMM,Mindanao State University,SUC,CITY OF MARAWI (CAPITAL),LANAO DEL SUR,34049,7478,25135,1436.0,2021-2022
+16 - Caraga,Agusan Del Sur State College of Agriculture and Technology,SUC,BUNAWAN,AGUSAN DEL SUR,7777,2582,5195,,2021-2022
+16 - Caraga,Caraga State University,SUC,CITY OF BUTUAN (CAPITAL),AGUSAN DEL NORTE,11486,4625,6861,,2021-2022
+16 - Caraga,Hinatuan Southern College,LUC,HINATUAN,SURIGAO DEL SUR,1050,363,687,,2021-2022
+16 - Caraga,North Eastern Mindanao State University (SDSSU),SUC,CITY OF TANDAG (CAPITAL),SURIGAO DEL SUR,23601,10231,13370,,2021-2022
+16 - Caraga,Surigao State College of Technology,SUC,CITY OF SURIGAO (CAPITAL),SURIGAO DEL NORTE,9461,4094,5367,,2021-2022
+17 - MIMAROPA,Baco Community College,LUC,BACO,ORIENTAL MINDORO,597,180,417,,2021-2022
+17 - MIMAROPA,City College of Calapan,LUC,CITY OF CALAPAN (CAPITAL),ORIENTAL MINDORO,1805,582,1223,,2021-2022
+17 - MIMAROPA,Marinduque State College,SUC,BOAC (CAPITAL),MARINDUQUE,7769,3226,4543,,2021-2022
+17 - MIMAROPA,Mindoro State University,SUC,VICTORIA,ORIENTAL MINDORO,9884,3748,6136,,2021-2022
+17 - MIMAROPA,Occidental Mindoro State College,SUC,SAN JOSE,OCCIDENTAL MINDORO,17527,7057,10470,,2021-2022
+17 - MIMAROPA,Palawan State University,SUC,CITY OF PUERTO PRINCESA (CAPITAL),PALAWAN,26409,9890,16519,,2021-2022
+17 - MIMAROPA,Romblon State University,SUC,ODIONGAN,ROMBLON,15497,6972,8525,,2021-2022
+17 - MIMAROPA,Western Philippines University,SUC,ABORLAN,PALAWAN,11888,4885,7003,,2021-2022
+01 - Ilocos Region,Binalatongan Community College,LUC,SAN CARLOS CITY,PANGASINAN,2728,917,1811,,2022-2023
+01 - Ilocos Region,Ilocos Sur Community College,LUC,VIGAN CITY,ILOCOS SUR,3260,1422,1838,,2022-2023
+01 - Ilocos Region,University of Eastern Pangasinan,LUC,BINALONAN,PANGASINAN,7282,3041,4241,,2022-2023
+01 - Ilocos Region,Urdaneta City University,LUC,URDANETA CITY,PANGASINAN,14003,6300,7703,,2022-2023
+03 - Central Luzon,Baliwag Polytechnic College,LUC,BALIUAG,BULACAN,6145,2318,3827,,2022-2023
+03 - Central Luzon,Bulacan Polytechnic College,LUC,CITY OF MALOLOS (CAPITAL),BULACAN,3216,1180,2036,,2022-2023
+03 - Central Luzon,City College of Angeles,LUC,CITY OF ANGELES,PAMPANGA,5579,2191,3388,,2022-2023
+03 - Central Luzon,"City College of San Fernando, Pampanga",LUC,CITY OF SAN FERNANDO (CAPITAL),PAMPANGA,1363,471,892,,2022-2023
+03 - Central Luzon,City College of San Jose Del Monte,LUC,CITY OF SAN JOSE DEL MONTE,BULACAN,3639,1557,2082,,2022-2023
+03 - Central Luzon,Eduardo L. Joson Memorial College,LUC,CITY OF PALAYAN (CAPITAL),NUEVA ECIJA,1295,300,995,,2022-2023
+03 - Central Luzon,Gordon College,LUC,CITY OF OLONGAPO,ZAMBALES,6072,2223,3849,,2022-2023
+03 - Central Luzon,Guagua Community College,LUC,GUAGUA,PAMPANGA,1610,693,917,,2022-2023
+03 - Central Luzon,Kolehiyo ng Subic,LUC,CITY OF OLONGAPO,ZAMBALES,4295,1731,2564,,2022-2023
+03 - Central Luzon,Mabalacat City College,LUC,MABALACAT CITY,PAMPANGA,4170,1515,2655,,2022-2023
+03 - Central Luzon,Norzagaray College,LUC,NORZAGARAY,BULACAN,1170,445,725,,2022-2023
+03 - Central Luzon,Pambayang Dalubhasaan ng Marilao,LUC,MARILAO,BULACAN,1565,624,941,,2022-2023
+03 - Central Luzon,Polytechnic College of Botolan,LUC,BOTOLAN,ZAMBALES,780,296,484,,2022-2023
+03 - Central Luzon,Polytechnic College of the City of Meycauayan,LUC,CITY OF MEYCAUAYAN,BULACAN,1266,371,895,,2022-2023
+04 - CALABARZON,Antipolo Institute of Technology (AiTech),LUC,CITY OF ANTIPOLO (CAPITAL),RIZAL PROVINCE,488,270,218,,2022-2023
+04 - CALABARZON,Balian Community College,LUC,PANGIL,LAGUNA,921,207,714,,2022-2023
+04 - CALABARZON,City College of Calamba,LUC,CITY OF CALAMBA,LAGUNA,3513,1252,2261,,2022-2023
+04 - CALABARZON,City College of Tagaytay (CCT),LUC,CITY OF TAGAYTAY,CAVITE,5165,2121,3044,,2022-2023
+04 - CALABARZON,Colegio de Montalban,LUC,RODRIGUEZ (MONTALBAN),RIZAL PROVINCE,5762,2633,3129,,2022-2023
+04 - CALABARZON,Colegio ng Lungsod ng Batangas,LUC,BATANGAS CITY (CAPITAL),BATANGAS,933,203,730,,2022-2023
+04 - CALABARZON,Dalubhasaan ng Lungsod ng Lucena,LUC,CITY OF LUCENA (CAPITAL),QUEZON PROVINCE,2942,1120,1822,,2022-2023
+04 - CALABARZON,Dalubhasaan ng Lungsod ng San Pablo,LUC,LIPA CITY,BATANGAS,10059,4069,5990,,2022-2023
+04 - CALABARZON,Kolehiyo ng Lungsod ng Lipa,LUC,SANTA CRUZ (CAPITAL),LAGUNA,7224,2916,4308,,2022-2023
+04 - CALABARZON,Laguna University,LUC,CAINTA,RIZAL PROVINCE,4295,1659,2636,,2022-2023
+04 - CALABARZON,One Cainta College,LUC,CITY OF CABUYAO,LAGUNA,1732,705,1027,,2022-2023
+04 - CALABARZON,Pamantasan ng Cabuyao (PNC),LUC,CITY OF SAN PABLO,LAGUNA,7454,3028,4426,,2022-2023
+04 - CALABARZON,Pambayang Kolehiyo ng Mauban,LUC,MAUBAN,QUEZON PROVINCE,994,270,724,,2022-2023
+04 - CALABARZON,San Mateo Municipal College,LUC,SAN MATEO,RIZAL PROVINCE,5639,1606,4033,,2022-2023
+04 - CALABARZON,Tanauan City College (TCC),LUC,CITY OF TANAUAN,BATANGAS,1706,690,1016,,2022-2023
+04 - CALABARZON,Trece Martires City College,LUC,CITY OF TRECE MARTIRES (CAPITAL),CAVITE,2279,971,1308,,2022-2023
+05 - Bicol Region,Aroroy Municipal College (AMC),LUC,AROROY,MASBATE,1326,406,920,,2022-2023
+05 - Bicol Region,Baao Community College,LUC,BAAO,CAMARINES SUR,5491,1712,3779,,2022-2023
+05 - Bicol Region,Calabanga Community College,LUC,CALABANGA,CAMARINES SUR,1912,527,1385,,2022-2023
+05 - Bicol Region,City College of Naga,LUC,NAGA,CAMARINES SUR,393,24,369,,2022-2023
+05 - Bicol Region,Daraga Community College,LUC,DARAGA,ALBAY,8818,3073,5745,,2022-2023
+05 - Bicol Region,Donsol Community College (DCC),LUC,DONSOL,SORSOGON,1264,548,716,,2022-2023
+05 - Bicol Region,Governor Mariano E. Villafuerte Community College,LUC,GARCHITORENA,CAMARINES SUR,2787,1040,1747,,2022-2023
+05 - Bicol Region,Libon Community College,LUC,SIRUMA,CAMARINES SUR,2235,911,1324,,2022-2023
+05 - Bicol Region,Ligao Community College,LUC,LIBON,ALBAY,2170,646,1524,,2022-2023
+05 - Bicol Region,Oas Community College,LUC,CITY OF LIGAO,ALBAY,2715,1095,1620,,2022-2023
+05 - Bicol Region,Polangui Community College,LUC,OAS,ALBAY,3101,1115,1986,,2022-2023
+05 - Bicol Region,San Jose Community College,LUC,POLANGUI,ALBAY,8549,3494,5055,,2022-2023
+05 - Bicol Region,San Pascual Polytechnic College (SPPC),LUC,MALILIPOT,ALBAY,260,65,195,,2022-2023
+05 - Bicol Region,Tiwi Community College,LUC,SAN PASCUAL,MASBATE,2473,938,1535,,2022-2023
+06 - Western Visayas,Bacolod City College,LUC,CITY OF BACOLOD (CAPITAL),NEGROS OCCIDENTAL,3413,990,2423,,2022-2023
+06 - Western Visayas,Iloilo City Community College,LUC,CITY OF ILOILO (CAPITAL),ILOILO,881,171,710,,2022-2023
+06 - Western Visayas,La Carlota City College,LUC,CITY OF LA CARLOTA,NEGROS OCCIDENTAL,7147,3244,3903,,2022-2023
+06 - Western Visayas,Passi City College,LUC,CITY OF PASSI,ILOILO,4128,1936,2192,,2022-2023
+07 - Central Visayas,Buenavista Community College,LUC,BUENAVISTA,BOHOL,4431,2013,2418,,2022-2023
+07 - Central Visayas,Carcar City College,LUC,CITY OF CARCAR,CEBU,2491,0,0,2491.0,2022-2023
+07 - Central Visayas,Colegio de Getafe,LUC,GETAFE,BOHOL,814,520,294,,2022-2023
+07 - Central Visayas,Lapu-Lapu City College,LUC,CITY OF LAPU-LAPU (OPON),CEBU,1902,604,1298,,2022-2023
+07 - Central Visayas,Tagbilaran City College,LUC,CITY OF TAGBILARAN,BOHOL,1699,370,1329,,2022-2023
+07 - Central Visayas,Talibon Polytechnic College,LUC,TALIBON,BOHOL,1952,788,1164,,2022-2023
+07 - Central Visayas,Trinidad Municipal College,LUC,TRINIDAD,BOHOL,5818,2295,3523,,2022-2023
+08 - Eastern Visayas,Burauen Community College,LUC,BURAUEN,LEYTE,4209,990,772,2447.0,2022-2023
+09 - Zamboanga Peninsula,Colegio de la Ciudad de Zamboanga,LUC,VITALI,ZAMBOANGA DEL SUR,44,5,39,,2022-2023
+09 - Zamboanga Peninsula,Zamboanga del Sur Provincial Government College,LUC,AURORA,ZAMBOANGA DEL SUR,3310,1273,2037,,2022-2023
+10 - Northern Mindanao,City College of El Salvador,LUC,CITY OF EL SALVADOR,MISAMIS ORIENTAL,1827,709,1118,,2022-2023
+10 - Northern Mindanao,Community College of Gingoog City,LUC,GINGOOG CITY,MISAMIS ORIENTAL,2996,1207,1789,,2022-2023
+10 - Northern Mindanao,Don Carlos Polytechnic College,LUC,DON CARLOS,BUKIDNON,5069,2271,2798,,2022-2023
+10 - Northern Mindanao,Gov. Alfonso D. Tan College,LUC,CITY OF TANGUB,MISAMIS OCCIDENTAL,5353,2003,3350,,2022-2023
+10 - Northern Mindanao,Initao College,LUC,INITAO,MISAMIS ORIENTAL,4829,2248,2581,,2022-2023
+10 - Northern Mindanao,Magsaysay College,LUC,MAGSAYSAY,MISAMIS ORIENTAL,997,400,597,,2022-2023
+10 - Northern Mindanao,Opol Community College,LUC,OPOL,MISAMIS ORIENTAL,2453,887,1566,,2022-2023
+10 - Northern Mindanao,Pangantucan Bukidnon Community College (PBCC),LUC,PANGANTUCAN,BUKIDNON,1368,486,882,,2022-2023
+10 - Northern Mindanao,Salay Community College,LUC,SALAY,MISAMIS ORIENTAL,1674,556,1118,,2022-2023
+10 - Northern Mindanao,Tagoloan Community College,LUC,TAGOLOAN,MISAMIS ORIENTAL,8750,3208,5542,,2022-2023
+10 - Northern Mindanao,Tubod College,LUC,TUBOD,LANAO DEL NORTE,1863,800,1063,,2022-2023
+11 - Davao Region,"Governor Generoso College of Arts, Sciences and Technology (GGCAST)",LUC,GOVERNOR GENEROSO,DAVAO ORIENTAL,1630,624,1006,,2022-2023
+11 - Davao Region,"Kapalong College of Agriculture, Sciences and Technology (KCAST)",LUC,KAPALONG,DAVAO DEL NORTE,6088,2508,3580,,2022-2023
+11 - Davao Region,Kolehiyo ng Pantukan (KNP),LUC,PANTUKAN,COMPOSTELA VALLEY,3568,1500,2068,,2022-2023
+11 - Davao Region,"Monkayo College of Arts, Sciences and Technology",LUC,MONKAYO,COMPOSTELA VALLEY,3609,1285,2324,,2022-2023
+11 - Davao Region,Samal Island City College,LUC,SAMAL,DAVAO DEL NORTE,2432,1050,1382,,2022-2023
+11 - Davao Region,Sto. Tomas College of Agriculture and Technology,LUC,SANTO TOMAS,DAVAO DEL NORTE,3616,1432,2184,,2022-2023
+12 - Soccsksargen,Glan Institute of Technology,LUC,GLAN,SARANGANI,2479,1174,1305,,2022-2023
+12 - Soccsksargen,Makilala Institute of Science and Technology,LUC,MAKILALA,NORTH COTABATO,3843,1596,2247,,2022-2023
+13 - NCR,City University of Pasay,LUC,CITY OF PASAY,METRO MANILA,5233,1823,3410,,2022-2023
+13 - NCR,Colegio De Muntinlupa,LUC,CITY OF MUNTINLUPA,METRO MANILA,1287,783,504,,2022-2023
+13 - NCR,Pamantasan ng Lungsod ng Marikina,LUC,CITY OF MARIKINA,METRO MANILA,7187,2851,4336,,2022-2023
+13 - NCR,Pamantasan ng Lungsod ng Maynila,LUC,INTRAMUROS,METRO MANILA,16060,5425,10635,,2022-2023
+13 - NCR,Pamantasan ng Lungsod ng Muntinlupa,LUC,CITY OF MUNTINLUPA,METRO MANILA,12777,5787,6990,,2022-2023
+13 - NCR,Pamantasan ng Lungsod ng Pasig,LUC,CITY OF PASIG,METRO MANILA,4113,1357,2756,,2022-2023
+13 - NCR,Pamantasan ng Lungsod ng Valenzuela,LUC,CITY OF VALENZUELA,METRO MANILA,7831,2817,5014,,2022-2023
+13 - NCR,Quezon City University,LUC,QUEZON CITY,METRO MANILA,9606,4323,5283,,2022-2023
+16 - Caraga,Hinatuan Southern College,LUC,HINATUAN,SURIGAO DEL SUR,1046,382,664,,2022-2023
+17 - MIMAROPA,Baco Community College,LUC,BACO,ORIENTAL MINDORO,580,186,394,,2022-2023
+17 - MIMAROPA,City College of Calapan,LUC,CITY OF CALAPAN (CAPITAL),ORIENTAL MINDORO,2811,978,1833,,2022-2023
